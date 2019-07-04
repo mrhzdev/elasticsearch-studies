@@ -1,0 +1,49 @@
+version: '2.2'
+services:
+  esstd01:
+    image: docker.elastic.co/elasticsearch/elasticsearch:7.2.0
+    container_name: esstd01
+    environment:
+      - node.name=esstd01
+      - discovery.seed_hosts=esstd02
+      - cluster.initial_master_nodes=esstd01,esstd02
+      - cluster.name=docker-cluster
+      - bootstrap.memory_lock=true
+      - "ES_JAVA_OPTS=-Xms512m -Xmx512m"
+    ulimits:
+      memlock:
+        soft: -1
+        hard: -1
+    volumes:
+      - esstddata01:/usr/share/elasticsearch/data
+    ports:
+      - 9200:9200
+    networks:
+      - esstdnet
+  esstd02:
+    image: docker.elastic.co/elasticsearch/elasticsearch:7.2.0
+    container_name: esstd02
+    environment:
+      - node.name=esstd02
+      - discovery.seed_hosts=esstd01
+      - cluster.initial_master_nodes=esstd01,esstd02
+      - cluster.name=docker-cluster
+      - bootstrap.memory_lock=true
+      - "ES_JAVA_OPTS=-Xms512m -Xmx512m"
+    ulimits:
+      memlock:
+        soft: -1
+        hard: -1
+    volumes:
+      - esstddata02:/usr/share/elasticsearch/data
+    networks:
+      - esstdnet
+
+volumes:
+  esstddata01:
+    driver: local
+  esstddata02:
+    driver: local
+
+networks:
+  esstdnet:
