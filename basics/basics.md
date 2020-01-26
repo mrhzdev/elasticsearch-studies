@@ -95,3 +95,50 @@ The json below is the response of the server if the previous request shown here,
   "_primary_term" : 1
 }
 ```
+
+#### Autogenerating IDs
+
+If you doesn't want to give an ID to the document, or it hasn't one, you let the Elasticsearch auto generate it for you. The request structure changes, in this case you must use te `POST` verb instead of `PUT`.
+
+```bash
+curl -X POST "{url}:{port}/{index}/{type}" \
+-H 'Content-Type: application/json' \
+-d '
+{
+  "field": "value",
+  ...
+}
+'
+```
+
+This structure is like another specified previosly, except by the `method`, and the omission of the `id` parameter.
+
+```bash
+curl -X POST "localhost:9200/store/product?pretty" \
+-H 'Content-Type: application/json' \
+-d '
+{
+  "name": "Notebook",
+  "price":  900.50
+}
+'
+```
+
+The json below is the response of request, and `_id` field was generate by Elasticsearch. If the request is made again, another document will be created with the same data, but with a completely diferent identifier. It means two equals documents, only differentiated by id.
+
+```json
+{
+  "_index" : "store",
+  "_type" : "product",
+  "_id" : "ay_q428BLrPqOEo70_yp",
+  "_version" : 1,
+  "result" : "created",
+  "_shards" : {
+    "total" : 2,
+    "successful" : 2,
+    "failed" : 0
+  },
+  "_seq_no" : 0,
+  "_primary_term" : 1
+}
+```
