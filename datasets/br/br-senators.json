@@ -1,0 +1,5560 @@
+[
+  {
+    "IdentificacaoParlamentar": {
+      "CodigoParlamentar": "4981",
+      "CodigoPublicoNaLegAtual": "916",
+      "NomeParlamentar": "Acir Gurgacz",
+      "NomeCompletoParlamentar": "Acir Marcos Gurgacz",
+      "SexoParlamentar": "Masculino",
+      "FormaTratamento": "Senador ",
+      "UrlFotoParlamentar": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador4981.jpg",
+      "UrlPaginaParlamentar": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/4981",
+      "EmailParlamentar": "sen.acirgurgacz@senado.leg.br",
+      "Telefones": {
+        "Telefone": [
+          {
+            "NumeroTelefone": "33033131",
+            "OrdemPublicacao": "1",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33033132",
+            "OrdemPublicacao": "2",
+            "IndicadorFax": "Não"
+          }
+        ]
+      },
+      "SiglaPartidoParlamentar": "PDT",
+      "UfParlamentar": "RO"
+    },
+    "Mandato": {
+      "CodigoMandato": "515",
+      "UfParlamentar": "RO",
+      "PrimeiraLegislaturaDoMandato": {
+        "NumeroLegislatura": "55",
+        "DataInicio": "2015-02-01",
+        "DataFim": "2019-01-31"
+      },
+      "SegundaLegislaturaDoMandato": {
+        "NumeroLegislatura": "56",
+        "DataInicio": "2019-02-01",
+        "DataFim": "2023-01-31"
+      },
+      "DescricaoParticipacao": "Titular",
+      "Suplentes": {
+        "Suplente": [
+          {
+            "DescricaoParticipacao": "1º Suplente",
+            "CodigoParlamentar": "5615",
+            "NomeParlamentar": "Gilberto Piselo"
+          },
+          {
+            "DescricaoParticipacao": "2º Suplente",
+            "CodigoParlamentar": "5617",
+            "NomeParlamentar": "Pastor Valadares"
+          }
+        ]
+      },
+      "Exercicios": {
+        "Exercicio": [
+          {
+            "CodigoExercicio": "2810",
+            "DataInicio": "2017-01-14"
+          },
+          {
+            "CodigoExercicio": "2754",
+            "DataInicio": "2015-02-01",
+            "DataFim": "2016-09-08",
+            "SiglaCausaAfastamento": "LSP",
+            "DescricaoCausaAfastamento": "Licença Saúde-Particular"
+          }
+        ]
+      }
+    },
+    "UrlGlossario": "http://legis.senado.leg.br/dadosabertos/senador/"
+  },
+  {
+    "IdentificacaoParlamentar": {
+      "CodigoParlamentar": "5982",
+      "CodigoPublicoNaLegAtual": "829",
+      "NomeParlamentar": "Alessandro Vieira",
+      "NomeCompletoParlamentar": "Alessandro Vieira",
+      "SexoParlamentar": "Masculino",
+      "FormaTratamento": "Senador ",
+      "UrlFotoParlamentar": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5982.jpg",
+      "UrlPaginaParlamentar": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5982",
+      "EmailParlamentar": "sen.alessandrovieira@senado.leg.br",
+      "Telefones": {
+        "Telefone": [
+          {
+            "NumeroTelefone": "33039011",
+            "OrdemPublicacao": "1",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33039014",
+            "OrdemPublicacao": "2",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33039019",
+            "OrdemPublicacao": "3",
+            "IndicadorFax": "Não"
+          }
+        ]
+      },
+      "SiglaPartidoParlamentar": "CIDADANIA",
+      "UfParlamentar": "SE"
+    },
+    "Mandato": {
+      "CodigoMandato": "559",
+      "UfParlamentar": "SE",
+      "PrimeiraLegislaturaDoMandato": {
+        "NumeroLegislatura": "56",
+        "DataInicio": "2019-02-01",
+        "DataFim": "2023-01-31"
+      },
+      "SegundaLegislaturaDoMandato": {
+        "NumeroLegislatura": "57",
+        "DataInicio": "2023-02-01",
+        "DataFim": "2027-01-31"
+      },
+      "DescricaoParticipacao": "Titular",
+      "Suplentes": {
+        "Suplente": [
+          {
+            "DescricaoParticipacao": "1º Suplente",
+            "CodigoParlamentar": "5980",
+            "NomeParlamentar": "Fernando Carvalho"
+          },
+          {
+            "DescricaoParticipacao": "2º Suplente",
+            "CodigoParlamentar": "5981",
+            "NomeParlamentar": "Major Ildomario"
+          }
+        ]
+      },
+      "Exercicios": {
+        "Exercicio": [
+          {
+            "CodigoExercicio": "2888",
+            "DataInicio": "2019-02-01"
+          }
+        ]
+      }
+    },
+    "UrlGlossario": "http://legis.senado.leg.br/dadosabertos/senador/"
+  },
+  {
+    "IdentificacaoParlamentar": {
+      "CodigoParlamentar": "945",
+      "CodigoPublicoNaLegAtual": "855",
+      "NomeParlamentar": "Alvaro Dias",
+      "NomeCompletoParlamentar": "Alvaro Fernandes Dias",
+      "SexoParlamentar": "Masculino",
+      "FormaTratamento": "Senador ",
+      "UrlFotoParlamentar": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador945.jpg",
+      "UrlPaginaParlamentar": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/945",
+      "EmailParlamentar": "sen.alvarodias@senado.leg.br",
+      "Telefones": {
+        "Telefone": [
+          {
+            "NumeroTelefone": "33034059",
+            "OrdemPublicacao": "1",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33034060",
+            "OrdemPublicacao": "2",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33032941",
+            "OrdemPublicacao": "3",
+            "IndicadorFax": "Sim "
+          }
+        ]
+      },
+      "SiglaPartidoParlamentar": "PODEMOS",
+      "UfParlamentar": "PR"
+    },
+    "Mandato": {
+      "CodigoMandato": "514",
+      "UfParlamentar": "PR",
+      "PrimeiraLegislaturaDoMandato": {
+        "NumeroLegislatura": "55",
+        "DataInicio": "2015-02-01",
+        "DataFim": "2019-01-31"
+      },
+      "SegundaLegislaturaDoMandato": {
+        "NumeroLegislatura": "56",
+        "DataInicio": "2019-02-01",
+        "DataFim": "2023-01-31"
+      },
+      "DescricaoParticipacao": "Titular",
+      "Suplentes": {
+        "Suplente": [
+          {
+            "DescricaoParticipacao": "1º Suplente",
+            "CodigoParlamentar": "5609",
+            "NomeParlamentar": "Joel Malucelli"
+          },
+          {
+            "DescricaoParticipacao": "2º Suplente",
+            "CodigoParlamentar": "5611",
+            "NomeParlamentar": "Severino Araujo"
+          }
+        ]
+      },
+      "Exercicios": {
+        "Exercicio": [
+          {
+            "CodigoExercicio": "2755",
+            "DataInicio": "2015-02-01"
+          }
+        ]
+      }
+    },
+    "UrlGlossario": "http://legis.senado.leg.br/dadosabertos/senador/"
+  },
+  {
+    "IdentificacaoParlamentar": {
+      "CodigoParlamentar": "5967",
+      "CodigoPublicoNaLegAtual": "832",
+      "NomeParlamentar": "Angelo Coronel",
+      "NomeCompletoParlamentar": "Angelo Mario Coronel de Azevedo Martins",
+      "SexoParlamentar": "Masculino",
+      "FormaTratamento": "Senador ",
+      "UrlFotoParlamentar": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5967.jpg",
+      "UrlPaginaParlamentar": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5967",
+      "EmailParlamentar": "sen.angelocoronel@senado.leg.br",
+      "Telefones": {
+        "Telefone": [
+          {
+            "NumeroTelefone": "33036103",
+            "OrdemPublicacao": "1",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33036105",
+            "OrdemPublicacao": "3",
+            "IndicadorFax": "Não"
+          }
+        ]
+      },
+      "SiglaPartidoParlamentar": "PSD",
+      "UfParlamentar": "BA"
+    },
+    "Mandato": {
+      "CodigoMandato": "554",
+      "UfParlamentar": "BA",
+      "PrimeiraLegislaturaDoMandato": {
+        "NumeroLegislatura": "56",
+        "DataInicio": "2019-02-01",
+        "DataFim": "2023-01-31"
+      },
+      "SegundaLegislaturaDoMandato": {
+        "NumeroLegislatura": "57",
+        "DataInicio": "2023-02-01",
+        "DataFim": "2027-01-31"
+      },
+      "DescricaoParticipacao": "Titular",
+      "Suplentes": {
+        "Suplente": [
+          {
+            "DescricaoParticipacao": "1º Suplente",
+            "CodigoParlamentar": "5837",
+            "NomeParlamentar": "Davidson Magalhães"
+          },
+          {
+            "DescricaoParticipacao": "2º Suplente",
+            "CodigoParlamentar": "5056",
+            "NomeParlamentar": "Silvia Nascimento Cardoso dos Santos Cerqueira"
+          }
+        ]
+      },
+      "Exercicios": {
+        "Exercicio": [
+          {
+            "CodigoExercicio": "2889",
+            "DataInicio": "2019-02-01"
+          }
+        ]
+      }
+    },
+    "UrlGlossario": "http://legis.senado.leg.br/dadosabertos/senador/"
+  },
+  {
+    "IdentificacaoParlamentar": {
+      "CodigoParlamentar": "5529",
+      "CodigoPublicoNaLegAtual": "898",
+      "NomeParlamentar": "Antonio Anastasia",
+      "NomeCompletoParlamentar": "Antonio Augusto Junho Anastasia",
+      "SexoParlamentar": "Masculino",
+      "FormaTratamento": "Senador ",
+      "UrlFotoParlamentar": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5529.jpg",
+      "UrlPaginaParlamentar": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5529",
+      "EmailParlamentar": "sen.antonioanastasia@senado.leg.br",
+      "Telefones": {
+        "Telefone": {
+          "NumeroTelefone": "33035717",
+          "OrdemPublicacao": "1",
+          "IndicadorFax": "Não"
+        }
+      },
+      "SiglaPartidoParlamentar": "PSDB",
+      "UfParlamentar": "MG"
+    },
+    "Mandato": {
+      "CodigoMandato": "495",
+      "UfParlamentar": "MG",
+      "PrimeiraLegislaturaDoMandato": {
+        "NumeroLegislatura": "55",
+        "DataInicio": "2015-02-01",
+        "DataFim": "2019-01-31"
+      },
+      "SegundaLegislaturaDoMandato": {
+        "NumeroLegislatura": "56",
+        "DataInicio": "2019-02-01",
+        "DataFim": "2023-01-31"
+      },
+      "DescricaoParticipacao": "Titular",
+      "Suplentes": {
+        "Suplente": [
+          {
+            "DescricaoParticipacao": "1º Suplente",
+            "CodigoParlamentar": "4610",
+            "NomeParlamentar": "Alexandre Silveira"
+          },
+          {
+            "DescricaoParticipacao": "2º Suplente",
+            "CodigoParlamentar": "415",
+            "NomeParlamentar": "Lael Varella"
+          }
+        ]
+      },
+      "Exercicios": {
+        "Exercicio": [
+          {
+            "CodigoExercicio": "2759",
+            "DataInicio": "2015-02-01"
+          }
+        ]
+      }
+    },
+    "UrlGlossario": "http://legis.senado.leg.br/dadosabertos/senador/"
+  },
+  {
+    "IdentificacaoParlamentar": {
+      "CodigoParlamentar": "751",
+      "CodigoPublicoNaLegAtual": "839",
+      "NomeParlamentar": "Arolde de Oliveira",
+      "NomeCompletoParlamentar": "Arolde de Oliveira",
+      "SexoParlamentar": "Masculino",
+      "FormaTratamento": "Senador ",
+      "UrlFotoParlamentar": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador751.jpg",
+      "UrlPaginaParlamentar": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/751",
+      "EmailParlamentar": "sen.aroldedeoliveira@senado.leg.br",
+      "Telefones": {
+        "Telefone": [
+          {
+            "NumeroTelefone": "33036640",
+            "OrdemPublicacao": "1",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33036646",
+            "OrdemPublicacao": "2",
+            "IndicadorFax": "Não"
+          }
+        ]
+      },
+      "SiglaPartidoParlamentar": "PSD",
+      "UfParlamentar": "RJ"
+    },
+    "Mandato": {
+      "CodigoMandato": "545",
+      "UfParlamentar": "RJ",
+      "PrimeiraLegislaturaDoMandato": {
+        "NumeroLegislatura": "56",
+        "DataInicio": "2019-02-01",
+        "DataFim": "2023-01-31"
+      },
+      "SegundaLegislaturaDoMandato": {
+        "NumeroLegislatura": "57",
+        "DataInicio": "2023-02-01",
+        "DataFim": "2027-01-31"
+      },
+      "DescricaoParticipacao": "Titular",
+      "Suplentes": {
+        "Suplente": [
+          {
+            "DescricaoParticipacao": "1º Suplente",
+            "CodigoParlamentar": "5936",
+            "NomeParlamentar": "Portinho"
+          },
+          {
+            "DescricaoParticipacao": "2º Suplente",
+            "CodigoParlamentar": "5934",
+            "NomeParlamentar": "Renata Guerra"
+          }
+        ]
+      },
+      "Exercicios": {
+        "Exercicio": [
+          {
+            "CodigoExercicio": "2891",
+            "DataInicio": "2019-02-01"
+          }
+        ]
+      }
+    },
+    "UrlGlossario": "http://legis.senado.leg.br/dadosabertos/senador/"
+  },
+  {
+    "IdentificacaoParlamentar": {
+      "CodigoParlamentar": "5990",
+      "CodigoPublicoNaLegAtual": "843",
+      "NomeParlamentar": "Carlos Viana",
+      "NomeCompletoParlamentar": "Carlos Alberto Dias Viana",
+      "SexoParlamentar": "Masculino",
+      "FormaTratamento": "Senador ",
+      "UrlFotoParlamentar": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5990.jpg",
+      "UrlPaginaParlamentar": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5990",
+      "EmailParlamentar": "sen.carlosviana@senado.leg.br",
+      "Telefones": {
+        "Telefone": {
+          "NumeroTelefone": "33033100",
+          "OrdemPublicacao": "1",
+          "IndicadorFax": "Não"
+        }
+      },
+      "SiglaPartidoParlamentar": "PSD",
+      "UfParlamentar": "MG"
+    },
+    "Mandato": {
+      "CodigoMandato": "563",
+      "UfParlamentar": "MG",
+      "PrimeiraLegislaturaDoMandato": {
+        "NumeroLegislatura": "56",
+        "DataInicio": "2019-02-01",
+        "DataFim": "2023-01-31"
+      },
+      "SegundaLegislaturaDoMandato": {
+        "NumeroLegislatura": "57",
+        "DataInicio": "2023-02-01",
+        "DataFim": "2027-01-31"
+      },
+      "DescricaoParticipacao": "Titular",
+      "Suplentes": {
+        "Suplente": [
+          {
+            "DescricaoParticipacao": "1º Suplente",
+            "CodigoParlamentar": "5991",
+            "NomeParlamentar": "Castellar Guimarães Neto"
+          },
+          {
+            "DescricaoParticipacao": "2º Suplente",
+            "CodigoParlamentar": "5992",
+            "NomeParlamentar": "Danilo Martins de Oliveira"
+          }
+        ]
+      },
+      "Exercicios": {
+        "Exercicio": [
+          {
+            "CodigoExercicio": "2892",
+            "DataInicio": "2019-02-01"
+          }
+        ]
+      }
+    },
+    "UrlGlossario": "http://legis.senado.leg.br/dadosabertos/senador/"
+  },
+  {
+    "IdentificacaoParlamentar": {
+      "CodigoParlamentar": "470",
+      "CodigoPublicoNaLegAtual": "815",
+      "NomeParlamentar": "Chico Rodrigues",
+      "NomeCompletoParlamentar": "Francisco de Assis Rodrigues",
+      "SexoParlamentar": "Masculino",
+      "FormaTratamento": "Senador ",
+      "UrlFotoParlamentar": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador470.jpg",
+      "UrlPaginaParlamentar": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/470",
+      "EmailParlamentar": "sen.chicorodrigues@senado.leg.br",
+      "Telefones": {
+        "Telefone": [
+          {
+            "NumeroTelefone": "33032281",
+            "OrdemPublicacao": "1",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33032287",
+            "OrdemPublicacao": "2",
+            "IndicadorFax": "Não"
+          }
+        ]
+      },
+      "SiglaPartidoParlamentar": "DEM",
+      "UfParlamentar": "RR"
+    },
+    "Mandato": {
+      "CodigoMandato": "577",
+      "UfParlamentar": "RR",
+      "PrimeiraLegislaturaDoMandato": {
+        "NumeroLegislatura": "56",
+        "DataInicio": "2019-02-01",
+        "DataFim": "2023-01-31"
+      },
+      "SegundaLegislaturaDoMandato": {
+        "NumeroLegislatura": "57",
+        "DataInicio": "2023-02-01",
+        "DataFim": "2027-01-31"
+      },
+      "DescricaoParticipacao": "Titular",
+      "Suplentes": {
+        "Suplente": [
+          {
+            "DescricaoParticipacao": "1º Suplente",
+            "CodigoParlamentar": "6023",
+            "NomeParlamentar": "Pedro Arthur"
+          },
+          {
+            "DescricaoParticipacao": "2º Suplente",
+            "CodigoParlamentar": "6024",
+            "NomeParlamentar": "Onésimo Cruz"
+          }
+        ]
+      },
+      "Exercicios": {
+        "Exercicio": [
+          {
+            "CodigoExercicio": "2905",
+            "DataInicio": "2019-02-01"
+          }
+        ]
+      }
+    },
+    "UrlGlossario": "http://legis.senado.leg.br/dadosabertos/senador/"
+  },
+  {
+    "IdentificacaoParlamentar": {
+      "CodigoParlamentar": "739",
+      "CodigoPublicoNaLegAtual": "811",
+      "NomeParlamentar": "Ciro Nogueira",
+      "NomeCompletoParlamentar": "Ciro Nogueira Lima Filho",
+      "SexoParlamentar": "Masculino",
+      "FormaTratamento": "Senador ",
+      "UrlFotoParlamentar": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador739.jpg",
+      "UrlPaginaParlamentar": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/739",
+      "EmailParlamentar": "sen.cironogueira@senado.leg.br",
+      "Telefones": {
+        "Telefone": [
+          {
+            "NumeroTelefone": "33036187",
+            "OrdemPublicacao": "1",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33036188",
+            "OrdemPublicacao": "2",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33036192",
+            "OrdemPublicacao": "3",
+            "IndicadorFax": "Sim "
+          }
+        ]
+      },
+      "SiglaPartidoParlamentar": "PP",
+      "UfParlamentar": "PI"
+    },
+    "Mandato": {
+      "CodigoMandato": "524",
+      "UfParlamentar": "PI",
+      "PrimeiraLegislaturaDoMandato": {
+        "NumeroLegislatura": "56",
+        "DataInicio": "2019-02-01",
+        "DataFim": "2023-01-31"
+      },
+      "SegundaLegislaturaDoMandato": {
+        "NumeroLegislatura": "57",
+        "DataInicio": "2023-02-01",
+        "DataFim": "2027-01-31"
+      },
+      "DescricaoParticipacao": "Titular",
+      "Suplentes": {
+        "Suplente": [
+          {
+            "DescricaoParticipacao": "1º Suplente",
+            "CodigoParlamentar": "5898",
+            "NomeParlamentar": "Eliane Nogueira"
+          },
+          {
+            "DescricaoParticipacao": "2º Suplente",
+            "CodigoParlamentar": "5900",
+            "NomeParlamentar": "Gil Paraibano"
+          }
+        ]
+      },
+      "Exercicios": {
+        "Exercicio": [
+          {
+            "CodigoExercicio": "2896",
+            "DataInicio": "2019-02-01"
+          }
+        ]
+      }
+    },
+    "UrlGlossario": "http://legis.senado.leg.br/dadosabertos/senador/"
+  },
+  {
+    "IdentificacaoParlamentar": {
+      "CodigoParlamentar": "475",
+      "CodigoPublicoNaLegAtual": "867",
+      "NomeParlamentar": "Confúcio Moura",
+      "NomeCompletoParlamentar": "Confúcio Aires Moura",
+      "SexoParlamentar": "Masculino",
+      "FormaTratamento": "Senador ",
+      "UrlFotoParlamentar": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador475.jpg",
+      "UrlPaginaParlamentar": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/475",
+      "EmailParlamentar": "sen.confuciomoura@senado.leg.br",
+      "Telefones": {
+        "Telefone": [
+          {
+            "NumeroTelefone": "33032470",
+            "OrdemPublicacao": "1",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33032163",
+            "OrdemPublicacao": "2",
+            "IndicadorFax": "Não"
+          }
+        ]
+      },
+      "SiglaPartidoParlamentar": "MDB",
+      "UfParlamentar": "RO"
+    },
+    "Mandato": {
+      "CodigoMandato": "575",
+      "UfParlamentar": "RO",
+      "PrimeiraLegislaturaDoMandato": {
+        "NumeroLegislatura": "56",
+        "DataInicio": "2019-02-01",
+        "DataFim": "2023-01-31"
+      },
+      "SegundaLegislaturaDoMandato": {
+        "NumeroLegislatura": "57",
+        "DataInicio": "2023-02-01",
+        "DataFim": "2027-01-31"
+      },
+      "DescricaoParticipacao": "Titular",
+      "Suplentes": {
+        "Suplente": [
+          {
+            "DescricaoParticipacao": "1º Suplente",
+            "CodigoParlamentar": "6019",
+            "NomeParlamentar": "Maria Eliza"
+          },
+          {
+            "DescricaoParticipacao": "2º Suplente",
+            "CodigoParlamentar": "6020",
+            "NomeParlamentar": "Carlos Milton Morais"
+          }
+        ]
+      },
+      "Exercicios": {
+        "Exercicio": [
+          {
+            "CodigoExercicio": "2897",
+            "DataInicio": "2019-02-01"
+          }
+        ]
+      }
+    },
+    "UrlGlossario": "http://legis.senado.leg.br/dadosabertos/senador/"
+  },
+  {
+    "IdentificacaoParlamentar": {
+      "CodigoParlamentar": "5998",
+      "CodigoPublicoNaLegAtual": "820",
+      "NomeParlamentar": "Daniella Ribeiro",
+      "NomeCompletoParlamentar": "Daniella Velloso Borges Ribeiro",
+      "SexoParlamentar": "Feminino",
+      "FormaTratamento": "Senadora ",
+      "UrlFotoParlamentar": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5998.jpg",
+      "UrlPaginaParlamentar": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5998",
+      "EmailParlamentar": "sen.daniellaribeiro@senado.leg.br",
+      "Telefones": {
+        "Telefone": [
+          {
+            "NumeroTelefone": "33036788",
+            "OrdemPublicacao": "1",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33036790",
+            "OrdemPublicacao": "2",
+            "IndicadorFax": "Não"
+          }
+        ]
+      },
+      "SiglaPartidoParlamentar": "PP",
+      "UfParlamentar": "PB"
+    },
+    "Mandato": {
+      "CodigoMandato": "565",
+      "UfParlamentar": "PB",
+      "PrimeiraLegislaturaDoMandato": {
+        "NumeroLegislatura": "56",
+        "DataInicio": "2019-02-01",
+        "DataFim": "2023-01-31"
+      },
+      "SegundaLegislaturaDoMandato": {
+        "NumeroLegislatura": "57",
+        "DataInicio": "2023-02-01",
+        "DataFim": "2027-01-31"
+      },
+      "DescricaoParticipacao": "Titular",
+      "Suplentes": {
+        "Suplente": [
+          {
+            "DescricaoParticipacao": "1º Suplente",
+            "CodigoParlamentar": "5997",
+            "NomeParlamentar": "Nailde Panta"
+          },
+          {
+            "DescricaoParticipacao": "2º Suplente",
+            "CodigoParlamentar": "5996",
+            "NomeParlamentar": "Diego Tavares"
+          }
+        ]
+      },
+      "Exercicios": {
+        "Exercicio": [
+          {
+            "CodigoExercicio": "2898",
+            "DataInicio": "2019-02-01"
+          }
+        ]
+      }
+    },
+    "UrlGlossario": "http://legis.senado.leg.br/dadosabertos/senador/"
+  },
+  {
+    "IdentificacaoParlamentar": {
+      "CodigoParlamentar": "3830",
+      "CodigoPublicoNaLegAtual": "834",
+      "NomeParlamentar": "Davi Alcolumbre",
+      "NomeCompletoParlamentar": "David Samuel Alcolumbre Tobelem",
+      "SexoParlamentar": "Masculino",
+      "FormaTratamento": "Senador ",
+      "UrlFotoParlamentar": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador3830.jpg",
+      "UrlPaginaParlamentar": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/3830",
+      "EmailParlamentar": "sen.davialcolumbre@senado.leg.br",
+      "Telefones": {
+        "Telefone": [
+          {
+            "NumeroTelefone": "33036717",
+            "OrdemPublicacao": "1",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33036720",
+            "OrdemPublicacao": "2",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33036722",
+            "OrdemPublicacao": "3",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33036723",
+            "OrdemPublicacao": "4",
+            "IndicadorFax": "Não"
+          }
+        ]
+      },
+      "SiglaPartidoParlamentar": "DEM",
+      "UfParlamentar": "AP"
+    },
+    "Mandato": {
+      "CodigoMandato": "501",
+      "UfParlamentar": "AP",
+      "PrimeiraLegislaturaDoMandato": {
+        "NumeroLegislatura": "55",
+        "DataInicio": "2015-02-01",
+        "DataFim": "2019-01-31"
+      },
+      "SegundaLegislaturaDoMandato": {
+        "NumeroLegislatura": "56",
+        "DataInicio": "2019-02-01",
+        "DataFim": "2023-01-31"
+      },
+      "DescricaoParticipacao": "Titular",
+      "Suplentes": {
+        "Suplente": [
+          {
+            "DescricaoParticipacao": "1º Suplente",
+            "CodigoParlamentar": "5569",
+            "NomeParlamentar": "Josiel"
+          },
+          {
+            "DescricaoParticipacao": "2º Suplente",
+            "CodigoParlamentar": "5571",
+            "NomeParlamentar": "Marquinho"
+          }
+        ]
+      },
+      "Exercicios": {
+        "Exercicio": [
+          {
+            "CodigoExercicio": "2732",
+            "DataInicio": "2015-02-01"
+          }
+        ]
+      }
+    },
+    "UrlGlossario": "http://legis.senado.leg.br/dadosabertos/senador/"
+  },
+  {
+    "IdentificacaoParlamentar": {
+      "CodigoParlamentar": "5537",
+      "CodigoPublicoNaLegAtual": "928",
+      "NomeParlamentar": "Dário Berger",
+      "NomeCompletoParlamentar": "Dário Elias Berger",
+      "SexoParlamentar": "Masculino",
+      "FormaTratamento": "Senador ",
+      "UrlFotoParlamentar": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5537.jpg",
+      "UrlPaginaParlamentar": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5537",
+      "EmailParlamentar": "sen.darioberger@senado.leg.br",
+      "Telefones": {
+        "Telefone": [
+          {
+            "NumeroTelefone": "33035947",
+            "OrdemPublicacao": "1",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33035951",
+            "OrdemPublicacao": "2",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33035955",
+            "OrdemPublicacao": "3",
+            "IndicadorFax": "Sim "
+          }
+        ]
+      },
+      "SiglaPartidoParlamentar": "MDB",
+      "UfParlamentar": "SC"
+    },
+    "Mandato": {
+      "CodigoMandato": "499",
+      "UfParlamentar": "SC",
+      "PrimeiraLegislaturaDoMandato": {
+        "NumeroLegislatura": "55",
+        "DataInicio": "2015-02-01",
+        "DataFim": "2019-01-31"
+      },
+      "SegundaLegislaturaDoMandato": {
+        "NumeroLegislatura": "56",
+        "DataInicio": "2019-02-01",
+        "DataFim": "2023-01-31"
+      },
+      "DescricaoParticipacao": "Titular",
+      "Suplentes": {
+        "Suplente": [
+          {
+            "DescricaoParticipacao": "1º Suplente",
+            "CodigoParlamentar": "336",
+            "NomeParlamentar": "Paulo Gouvêa"
+          },
+          {
+            "DescricaoParticipacao": "2º Suplente",
+            "CodigoParlamentar": "5631",
+            "NomeParlamentar": "Ayres Marchetti"
+          }
+        ]
+      },
+      "Exercicios": {
+        "Exercicio": [
+          {
+            "CodigoExercicio": "2731",
+            "DataInicio": "2015-02-01"
+          }
+        ]
+      }
+    },
+    "UrlGlossario": "http://legis.senado.leg.br/dadosabertos/senador/"
+  },
+  {
+    "IdentificacaoParlamentar": {
+      "CodigoParlamentar": "4994",
+      "CodigoPublicoNaLegAtual": "802",
+      "NomeParlamentar": "Eduardo Braga",
+      "NomeCompletoParlamentar": "Carlos Eduardo de Souza Braga",
+      "SexoParlamentar": "Masculino",
+      "FormaTratamento": "Senador ",
+      "UrlFotoParlamentar": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador4994.jpg",
+      "UrlPaginaParlamentar": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/4994",
+      "EmailParlamentar": "sen.eduardobraga@senado.leg.br",
+      "Telefones": {
+        "Telefone": {
+          "NumeroTelefone": "33036230",
+          "OrdemPublicacao": "1",
+          "IndicadorFax": "Não"
+        }
+      },
+      "SiglaPartidoParlamentar": "MDB",
+      "UfParlamentar": "AM"
+    },
+    "Mandato": {
+      "CodigoMandato": "521",
+      "UfParlamentar": "AM",
+      "PrimeiraLegislaturaDoMandato": {
+        "NumeroLegislatura": "56",
+        "DataInicio": "2019-02-01",
+        "DataFim": "2023-01-31"
+      },
+      "SegundaLegislaturaDoMandato": {
+        "NumeroLegislatura": "57",
+        "DataInicio": "2023-02-01",
+        "DataFim": "2027-01-31"
+      },
+      "DescricaoParticipacao": "Titular",
+      "Suplentes": {
+        "Suplente": [
+          {
+            "DescricaoParticipacao": "1º Suplente",
+            "CodigoParlamentar": "5038",
+            "NomeParlamentar": "Sandra Braga"
+          },
+          {
+            "DescricaoParticipacao": "2º Suplente",
+            "CodigoParlamentar": "5935",
+            "NomeParlamentar": "Miguel Biango"
+          }
+        ]
+      },
+      "Exercicios": {
+        "Exercicio": [
+          {
+            "CodigoExercicio": "2893",
+            "DataInicio": "2019-02-01"
+          }
+        ]
+      }
+    },
+    "UrlGlossario": "http://legis.senado.leg.br/dadosabertos/senador/"
+  },
+  {
+    "IdentificacaoParlamentar": {
+      "CodigoParlamentar": "5976",
+      "CodigoPublicoNaLegAtual": "826",
+      "NomeParlamentar": "Eduardo Girão",
+      "NomeCompletoParlamentar": "Luis Eduardo Grangeiro Girão",
+      "SexoParlamentar": "Masculino",
+      "FormaTratamento": "Senador ",
+      "UrlFotoParlamentar": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5976.jpg",
+      "UrlPaginaParlamentar": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5976",
+      "EmailParlamentar": "sen.eduardogirao@senado.leg.br",
+      "Telefones": {
+        "Telefone": [
+          {
+            "NumeroTelefone": "33036677",
+            "OrdemPublicacao": "1",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33036678",
+            "OrdemPublicacao": "2",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33036679",
+            "OrdemPublicacao": "3",
+            "IndicadorFax": "Não"
+          }
+        ]
+      },
+      "SiglaPartidoParlamentar": "PODEMOS",
+      "UfParlamentar": "CE"
+    },
+    "Mandato": {
+      "CodigoMandato": "557",
+      "UfParlamentar": "CE",
+      "PrimeiraLegislaturaDoMandato": {
+        "NumeroLegislatura": "56",
+        "DataInicio": "2019-02-01",
+        "DataFim": "2023-01-31"
+      },
+      "SegundaLegislaturaDoMandato": {
+        "NumeroLegislatura": "57",
+        "DataInicio": "2023-02-01",
+        "DataFim": "2027-01-31"
+      },
+      "DescricaoParticipacao": "Titular",
+      "Suplentes": {
+        "Suplente": [
+          {
+            "DescricaoParticipacao": "1º Suplente",
+            "CodigoParlamentar": "5974",
+            "NomeParlamentar": "Sargento Reginaldo"
+          },
+          {
+            "DescricaoParticipacao": "2º Suplente",
+            "CodigoParlamentar": "5975",
+            "NomeParlamentar": "Dr. Guimarães"
+          }
+        ]
+      },
+      "Exercicios": {
+        "Exercicio": [
+          {
+            "CodigoExercicio": "2920",
+            "DataInicio": "2019-02-01"
+          }
+        ]
+      }
+    },
+    "UrlGlossario": "http://legis.senado.leg.br/dadosabertos/senador/"
+  },
+  {
+    "IdentificacaoParlamentar": {
+      "CodigoParlamentar": "3777",
+      "CodigoPublicoNaLegAtual": "872",
+      "NomeParlamentar": "Eduardo Gomes",
+      "NomeCompletoParlamentar": "Carlos Eduardo Torres Gomes",
+      "SexoParlamentar": "Masculino",
+      "FormaTratamento": "Senador ",
+      "UrlFotoParlamentar": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador3777.jpg",
+      "UrlPaginaParlamentar": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/3777",
+      "EmailParlamentar": "sen.eduardogomes@senado.leg.br",
+      "Telefones": {
+        "Telefone": [
+          {
+            "NumeroTelefone": "33036349",
+            "OrdemPublicacao": "1",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33036352",
+            "OrdemPublicacao": "2",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33036354",
+            "OrdemPublicacao": "3",
+            "IndicadorFax": "Sim "
+          }
+        ]
+      },
+      "SiglaPartidoParlamentar": "MDB",
+      "UfParlamentar": "TO"
+    },
+    "Mandato": {
+      "CodigoMandato": "568",
+      "UfParlamentar": "TO",
+      "PrimeiraLegislaturaDoMandato": {
+        "NumeroLegislatura": "56",
+        "DataInicio": "2019-02-01",
+        "DataFim": "2023-01-31"
+      },
+      "SegundaLegislaturaDoMandato": {
+        "NumeroLegislatura": "57",
+        "DataInicio": "2023-02-01",
+        "DataFim": "2027-01-31"
+      },
+      "DescricaoParticipacao": "Titular",
+      "Suplentes": {
+        "Suplente": [
+          {
+            "DescricaoParticipacao": "1º Suplente",
+            "CodigoParlamentar": "6005",
+            "NomeParlamentar": "Siqueira Campos"
+          },
+          {
+            "DescricaoParticipacao": "2º Suplente",
+            "CodigoParlamentar": "6006",
+            "NomeParlamentar": "Ogari Pacheco"
+          }
+        ]
+      },
+      "Exercicios": {
+        "Exercicio": [
+          {
+            "CodigoExercicio": "2947",
+            "DataInicio": "2019-08-15",
+            "DataLeitura": "2019-08-15"
+          },
+          {
+            "CodigoExercicio": "2894",
+            "DataInicio": "2019-02-01",
+            "DataFim": "2019-07-12",
+            "SiglaCausaAfastamento": "AFO",
+            "DescricaoCausaAfastamento": "Afastamento do exercício",
+            "DataLeitura": "2019-07-12"
+          }
+        ]
+      }
+    },
+    "UrlGlossario": "http://legis.senado.leg.br/dadosabertos/senador/"
+  },
+  {
+    "IdentificacaoParlamentar": {
+      "CodigoParlamentar": "5718",
+      "CodigoPublicoNaLegAtual": "806",
+      "NomeParlamentar": "Eliziane Gama",
+      "NomeCompletoParlamentar": "Eliziane Pereira Gama Melo",
+      "SexoParlamentar": "Feminino",
+      "FormaTratamento": "Senadora ",
+      "UrlFotoParlamentar": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5718.jpg",
+      "UrlPaginaParlamentar": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5718",
+      "EmailParlamentar": "sen.elizianegama@senado.leg.br",
+      "Telefones": {
+        "Telefone": [
+          {
+            "NumeroTelefone": "33036741",
+            "OrdemPublicacao": "1",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33036703",
+            "OrdemPublicacao": "2",
+            "IndicadorFax": "Não"
+          }
+        ]
+      },
+      "SiglaPartidoParlamentar": "CIDADANIA",
+      "UfParlamentar": "MA"
+    },
+    "Mandato": {
+      "CodigoMandato": "542",
+      "UfParlamentar": "MA",
+      "PrimeiraLegislaturaDoMandato": {
+        "NumeroLegislatura": "56",
+        "DataInicio": "2019-02-01",
+        "DataFim": "2023-01-31"
+      },
+      "SegundaLegislaturaDoMandato": {
+        "NumeroLegislatura": "57",
+        "DataInicio": "2023-02-01",
+        "DataFim": "2027-01-31"
+      },
+      "DescricaoParticipacao": "Titular",
+      "Suplentes": {
+        "Suplente": [
+          {
+            "DescricaoParticipacao": "1º Suplente",
+            "CodigoParlamentar": "674",
+            "NomeParlamentar": "Pedro Fernandes"
+          },
+          {
+            "DescricaoParticipacao": "2º Suplente",
+            "CodigoParlamentar": "4979",
+            "NomeParlamentar": "Bene Camacho"
+          }
+        ]
+      },
+      "Exercicios": {
+        "Exercicio": [
+          {
+            "CodigoExercicio": "2900",
+            "DataInicio": "2019-02-01"
+          }
+        ]
+      }
+    },
+    "UrlGlossario": "http://legis.senado.leg.br/dadosabertos/senador/"
+  },
+  {
+    "IdentificacaoParlamentar": {
+      "CodigoParlamentar": "5531",
+      "CodigoPublicoNaLegAtual": "810",
+      "NomeParlamentar": "Elmano Férrer",
+      "NomeCompletoParlamentar": "Elmano Férrer de Almeida",
+      "SexoParlamentar": "Masculino",
+      "FormaTratamento": "Senador ",
+      "UrlFotoParlamentar": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5531.jpg",
+      "UrlPaginaParlamentar": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5531",
+      "EmailParlamentar": "sen.elmanoferrer@senado.leg.br",
+      "Telefones": {
+        "Telefone": [
+          {
+            "NumeroTelefone": "33032415",
+            "OrdemPublicacao": "1",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33033055",
+            "OrdemPublicacao": "2",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33031015",
+            "OrdemPublicacao": "3",
+            "IndicadorFax": "Não"
+          }
+        ]
+      },
+      "SiglaPartidoParlamentar": "PODEMOS",
+      "UfParlamentar": "PI"
+    },
+    "Mandato": {
+      "CodigoMandato": "496",
+      "UfParlamentar": "PI",
+      "PrimeiraLegislaturaDoMandato": {
+        "NumeroLegislatura": "55",
+        "DataInicio": "2015-02-01",
+        "DataFim": "2019-01-31"
+      },
+      "SegundaLegislaturaDoMandato": {
+        "NumeroLegislatura": "56",
+        "DataInicio": "2019-02-01",
+        "DataFim": "2023-01-31"
+      },
+      "DescricaoParticipacao": "Titular",
+      "Suplentes": {
+        "Suplente": [
+          {
+            "DescricaoParticipacao": "1º Suplente",
+            "CodigoParlamentar": "5849",
+            "NomeParlamentar": "José Amauri"
+          },
+          {
+            "DescricaoParticipacao": "2º Suplente",
+            "CodigoParlamentar": "5607",
+            "NomeParlamentar": "Alzenir Porto"
+          }
+        ]
+      },
+      "Exercicios": {
+        "Exercicio": [
+          {
+            "CodigoExercicio": "2874",
+            "DataInicio": "2018-11-08"
+          },
+          {
+            "CodigoExercicio": "2734",
+            "DataInicio": "2015-02-01",
+            "DataFim": "2018-07-09",
+            "SiglaCausaAfastamento": "LSP",
+            "DescricaoCausaAfastamento": "Licença Saúde-Particular"
+          }
+        ]
+      }
+    },
+    "UrlGlossario": "http://legis.senado.leg.br/dadosabertos/senador/"
+  },
+  {
+    "IdentificacaoParlamentar": {
+      "CodigoParlamentar": "22",
+      "CodigoPublicoNaLegAtual": "882",
+      "NomeParlamentar": "Esperidião Amin",
+      "NomeCompletoParlamentar": "Esperidião Amin Helou Filho",
+      "SexoParlamentar": "Masculino",
+      "FormaTratamento": "Senador ",
+      "UrlFotoParlamentar": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador22.jpg",
+      "UrlPaginaParlamentar": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/22",
+      "EmailParlamentar": "sen.esperidiaoamin@senado.leg.br",
+      "Telefones": {
+        "Telefone": [
+          {
+            "NumeroTelefone": "33036446",
+            "OrdemPublicacao": "1",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33036447",
+            "OrdemPublicacao": "2",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33036454",
+            "OrdemPublicacao": "3",
+            "IndicadorFax": "Não"
+          }
+        ]
+      },
+      "SiglaPartidoParlamentar": "PP",
+      "UfParlamentar": "SC"
+    },
+    "Mandato": {
+      "CodigoMandato": "572",
+      "UfParlamentar": "SC",
+      "PrimeiraLegislaturaDoMandato": {
+        "NumeroLegislatura": "56",
+        "DataInicio": "2019-02-01",
+        "DataFim": "2023-01-31"
+      },
+      "SegundaLegislaturaDoMandato": {
+        "NumeroLegislatura": "57",
+        "DataInicio": "2023-02-01",
+        "DataFim": "2027-01-31"
+      },
+      "DescricaoParticipacao": "Titular",
+      "Suplentes": {
+        "Suplente": [
+          {
+            "DescricaoParticipacao": "1º Suplente",
+            "CodigoParlamentar": "196",
+            "NomeParlamentar": "Geraldo Althoff"
+          },
+          {
+            "DescricaoParticipacao": "2º Suplente",
+            "CodigoParlamentar": "6012",
+            "NomeParlamentar": "Denise dos Santos"
+          }
+        ]
+      },
+      "Exercicios": {
+        "Exercicio": [
+          {
+            "CodigoExercicio": "2901",
+            "DataInicio": "2019-02-01"
+          }
+        ]
+      }
+    },
+    "UrlGlossario": "http://legis.senado.leg.br/dadosabertos/senador/"
+  },
+  {
+    "IdentificacaoParlamentar": {
+      "CodigoParlamentar": "5953",
+      "CodigoPublicoNaLegAtual": "835",
+      "NomeParlamentar": "Fabiano Contarato",
+      "NomeCompletoParlamentar": "Fabiano Contarato",
+      "SexoParlamentar": "Masculino",
+      "FormaTratamento": "Senador ",
+      "UrlFotoParlamentar": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5953.jpg",
+      "UrlPaginaParlamentar": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5953",
+      "EmailParlamentar": "sen.fabianocontarato@senado.leg.br",
+      "Telefones": {
+        "Telefone": {
+          "NumeroTelefone": "33039049",
+          "OrdemPublicacao": "1",
+          "IndicadorFax": "Não"
+        }
+      },
+      "SiglaPartidoParlamentar": "REDE",
+      "UfParlamentar": "ES"
+    },
+    "Mandato": {
+      "CodigoMandato": "548",
+      "UfParlamentar": "ES",
+      "PrimeiraLegislaturaDoMandato": {
+        "NumeroLegislatura": "56",
+        "DataInicio": "2019-02-01",
+        "DataFim": "2023-01-31"
+      },
+      "SegundaLegislaturaDoMandato": {
+        "NumeroLegislatura": "57",
+        "DataInicio": "2023-02-01",
+        "DataFim": "2027-01-31"
+      },
+      "DescricaoParticipacao": "Titular",
+      "Suplentes": {
+        "Suplente": [
+          {
+            "DescricaoParticipacao": "1º Suplente",
+            "CodigoParlamentar": "5950",
+            "NomeParlamentar": "Ana Paula Tongo"
+          },
+          {
+            "DescricaoParticipacao": "2º Suplente",
+            "CodigoParlamentar": "5952",
+            "NomeParlamentar": "Bento"
+          }
+        ]
+      },
+      "Exercicios": {
+        "Exercicio": [
+          {
+            "CodigoExercicio": "2902",
+            "DataInicio": "2019-02-01"
+          }
+        ]
+      }
+    },
+    "UrlGlossario": "http://legis.senado.leg.br/dadosabertos/senador/"
+  },
+  {
+    "IdentificacaoParlamentar": {
+      "CodigoParlamentar": "5540",
+      "CodigoPublicoNaLegAtual": "822",
+      "NomeParlamentar": "Fernando Bezerra Coelho",
+      "NomeCompletoParlamentar": "Fernando Bezerra de Souza Coelho",
+      "SexoParlamentar": "Masculino",
+      "FormaTratamento": "Senador ",
+      "UrlFotoParlamentar": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5540.jpg",
+      "UrlPaginaParlamentar": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5540",
+      "EmailParlamentar": "sen.fernandobezerracoelho@senado.leg.br",
+      "Telefones": {
+        "Telefone": [
+          {
+            "NumeroTelefone": "33032182",
+            "OrdemPublicacao": "1",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33032189",
+            "OrdemPublicacao": "2",
+            "IndicadorFax": "Sim "
+          }
+        ]
+      },
+      "SiglaPartidoParlamentar": "MDB",
+      "UfParlamentar": "PE"
+    },
+    "Mandato": {
+      "CodigoMandato": "519",
+      "UfParlamentar": "PE",
+      "PrimeiraLegislaturaDoMandato": {
+        "NumeroLegislatura": "55",
+        "DataInicio": "2015-02-01",
+        "DataFim": "2019-01-31"
+      },
+      "SegundaLegislaturaDoMandato": {
+        "NumeroLegislatura": "56",
+        "DataInicio": "2019-02-01",
+        "DataFim": "2023-01-31"
+      },
+      "DescricaoParticipacao": "Titular",
+      "Suplentes": {
+        "Suplente": [
+          {
+            "DescricaoParticipacao": "1º Suplente",
+            "CodigoParlamentar": "5603",
+            "NomeParlamentar": "Carlos Augusto Costa"
+          },
+          {
+            "DescricaoParticipacao": "2º Suplente",
+            "CodigoParlamentar": "5605",
+            "NomeParlamentar": "Eliane Rodrigues"
+          }
+        ]
+      },
+      "Exercicios": {
+        "Exercicio": [
+          {
+            "CodigoExercicio": "2736",
+            "DataInicio": "2015-02-01"
+          }
+        ]
+      }
+    },
+    "UrlGlossario": "http://legis.senado.leg.br/dadosabertos/senador/"
+  },
+  {
+    "IdentificacaoParlamentar": {
+      "CodigoParlamentar": "4525",
+      "CodigoPublicoNaLegAtual": "927",
+      "NomeParlamentar": "Fernando Collor",
+      "NomeCompletoParlamentar": "Fernando Affonso Collor de Mello",
+      "SexoParlamentar": "Masculino",
+      "FormaTratamento": "Senador ",
+      "UrlFotoParlamentar": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador4525.jpg",
+      "UrlPaginaParlamentar": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/4525",
+      "EmailParlamentar": "Sen.fernandocollor@senado.leg.br",
+      "Telefones": {
+        "Telefone": [
+          {
+            "NumeroTelefone": "33035783",
+            "OrdemPublicacao": "1",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33035789",
+            "OrdemPublicacao": "2",
+            "IndicadorFax": "Sim "
+          },
+          {
+            "NumeroTelefone": "33035787",
+            "OrdemPublicacao": "3",
+            "IndicadorFax": "Não"
+          }
+        ]
+      },
+      "SiglaPartidoParlamentar": "PROS",
+      "UfParlamentar": "AL"
+    },
+    "Mandato": {
+      "CodigoMandato": "511",
+      "UfParlamentar": "AL",
+      "PrimeiraLegislaturaDoMandato": {
+        "NumeroLegislatura": "55",
+        "DataInicio": "2015-02-01",
+        "DataFim": "2019-01-31"
+      },
+      "SegundaLegislaturaDoMandato": {
+        "NumeroLegislatura": "56",
+        "DataInicio": "2019-02-01",
+        "DataFim": "2023-01-31"
+      },
+      "DescricaoParticipacao": "Titular",
+      "Suplentes": {
+        "Suplente": [
+          {
+            "DescricaoParticipacao": "1º Suplente",
+            "CodigoParlamentar": "5561",
+            "NomeParlamentar": "Renilde Bulhões"
+          },
+          {
+            "DescricaoParticipacao": "2º Suplente",
+            "CodigoParlamentar": "5563",
+            "NomeParlamentar": "Severino Leão"
+          }
+        ]
+      },
+      "Exercicios": {
+        "Exercicio": [
+          {
+            "CodigoExercicio": "2946",
+            "DataInicio": "2019-08-01"
+          },
+          {
+            "CodigoExercicio": "2756",
+            "DataInicio": "2015-02-01",
+            "DataFim": "2019-04-01",
+            "SiglaCausaAfastamento": "LSP",
+            "DescricaoCausaAfastamento": "Licença Saúde-Particular",
+            "DataLeitura": "2019-04-02"
+          }
+        ]
+      }
+    },
+    "UrlGlossario": "http://legis.senado.leg.br/dadosabertos/senador/"
+  },
+  {
+    "IdentificacaoParlamentar": {
+      "CodigoParlamentar": "345",
+      "CodigoPublicoNaLegAtual": "856",
+      "NomeParlamentar": "Flávio Arns",
+      "NomeCompletoParlamentar": "Flávio José Arns",
+      "SexoParlamentar": "Masculino",
+      "FormaTratamento": "Senador ",
+      "UrlFotoParlamentar": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador345.jpg",
+      "UrlPaginaParlamentar": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/345",
+      "EmailParlamentar": "sen.flavioarns@senado.leg.br",
+      "Telefones": {
+        "Telefone": {
+          "NumeroTelefone": "33036301",
+          "OrdemPublicacao": "1",
+          "IndicadorFax": "Não"
+        }
+      },
+      "SiglaPartidoParlamentar": "REDE",
+      "UfParlamentar": "PR"
+    },
+    "Mandato": {
+      "CodigoMandato": "540",
+      "UfParlamentar": "PR",
+      "PrimeiraLegislaturaDoMandato": {
+        "NumeroLegislatura": "56",
+        "DataInicio": "2019-02-01",
+        "DataFim": "2023-01-31"
+      },
+      "SegundaLegislaturaDoMandato": {
+        "NumeroLegislatura": "57",
+        "DataInicio": "2023-02-01",
+        "DataFim": "2027-01-31"
+      },
+      "DescricaoParticipacao": "Titular",
+      "Suplentes": {
+        "Suplente": [
+          {
+            "DescricaoParticipacao": "1º Suplente",
+            "CodigoParlamentar": "5919",
+            "NomeParlamentar": "Vilson Basso"
+          },
+          {
+            "DescricaoParticipacao": "2º Suplente",
+            "CodigoParlamentar": "5920",
+            "NomeParlamentar": "Flavio Vicente"
+          }
+        ]
+      },
+      "Exercicios": {
+        "Exercicio": [
+          {
+            "CodigoExercicio": "2903",
+            "DataInicio": "2019-02-01"
+          }
+        ]
+      }
+    },
+    "UrlGlossario": "http://legis.senado.leg.br/dadosabertos/senador/"
+  },
+  {
+    "IdentificacaoParlamentar": {
+      "CodigoParlamentar": "5894",
+      "CodigoPublicoNaLegAtual": "841",
+      "NomeParlamentar": "Flávio Bolsonaro",
+      "NomeCompletoParlamentar": "Flávio Nantes Bolsonaro",
+      "SexoParlamentar": "Masculino",
+      "FormaTratamento": "Senador ",
+      "UrlFotoParlamentar": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5894.jpg",
+      "UrlPaginaParlamentar": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5894",
+      "EmailParlamentar": "sen.flaviobolsonaro@senado.leg.br",
+      "Telefones": {
+        "Telefone": [
+          {
+            "NumeroTelefone": "33031717",
+            "OrdemPublicacao": "1",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33031718",
+            "OrdemPublicacao": "2",
+            "IndicadorFax": "Não"
+          }
+        ]
+      },
+      "SiglaPartidoParlamentar": "S/Partido",
+      "UfParlamentar": "RJ"
+    },
+    "Mandato": {
+      "CodigoMandato": "532",
+      "UfParlamentar": "RJ",
+      "PrimeiraLegislaturaDoMandato": {
+        "NumeroLegislatura": "56",
+        "DataInicio": "2019-02-01",
+        "DataFim": "2023-01-31"
+      },
+      "SegundaLegislaturaDoMandato": {
+        "NumeroLegislatura": "57",
+        "DataInicio": "2023-02-01",
+        "DataFim": "2027-01-31"
+      },
+      "DescricaoParticipacao": "Titular",
+      "Suplentes": {
+        "Suplente": [
+          {
+            "DescricaoParticipacao": "1º Suplente",
+            "CodigoParlamentar": "5901",
+            "NomeParlamentar": "Paulo Marinho"
+          },
+          {
+            "DescricaoParticipacao": "2º Suplente",
+            "CodigoParlamentar": "5903",
+            "NomeParlamentar": "Leonardo Rodrigues"
+          }
+        ]
+      },
+      "Exercicios": {
+        "Exercicio": [
+          {
+            "CodigoExercicio": "2904",
+            "DataInicio": "2019-02-01"
+          }
+        ]
+      }
+    },
+    "UrlGlossario": "http://legis.senado.leg.br/dadosabertos/senador/"
+  },
+  {
+    "IdentificacaoParlamentar": {
+      "CodigoParlamentar": "5008",
+      "CodigoPublicoNaLegAtual": "824",
+      "NomeParlamentar": "Humberto Costa",
+      "NomeCompletoParlamentar": "Humberto Sérgio Costa Lima",
+      "SexoParlamentar": "Masculino",
+      "FormaTratamento": "Senador ",
+      "UrlFotoParlamentar": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5008.jpg",
+      "UrlPaginaParlamentar": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5008",
+      "EmailParlamentar": "sen.humbertocosta@senado.leg.br",
+      "Telefones": {
+        "Telefone": [
+          {
+            "NumeroTelefone": "33036285",
+            "OrdemPublicacao": "1",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33036286",
+            "OrdemPublicacao": "2",
+            "IndicadorFax": "Não"
+          }
+        ]
+      },
+      "SiglaPartidoParlamentar": "PT",
+      "UfParlamentar": "PE"
+    },
+    "Mandato": {
+      "CodigoMandato": "525",
+      "UfParlamentar": "PE",
+      "PrimeiraLegislaturaDoMandato": {
+        "NumeroLegislatura": "56",
+        "DataInicio": "2019-02-01",
+        "DataFim": "2023-01-31"
+      },
+      "SegundaLegislaturaDoMandato": {
+        "NumeroLegislatura": "57",
+        "DataInicio": "2023-02-01",
+        "DataFim": "2027-01-31"
+      },
+      "DescricaoParticipacao": "Titular",
+      "Suplentes": {
+        "Suplente": [
+          {
+            "DescricaoParticipacao": "1º Suplente",
+            "CodigoParlamentar": "5914",
+            "NomeParlamentar": "Waldemar Oliveira"
+          },
+          {
+            "DescricaoParticipacao": "2º Suplente",
+            "CodigoParlamentar": "5915",
+            "NomeParlamentar": "Marcia do Angico"
+          }
+        ]
+      },
+      "Exercicios": {
+        "Exercicio": [
+          {
+            "CodigoExercicio": "2907",
+            "DataInicio": "2019-02-01"
+          }
+        ]
+      }
+    },
+    "UrlGlossario": "http://legis.senado.leg.br/dadosabertos/senador/"
+  },
+  {
+    "IdentificacaoParlamentar": {
+      "CodigoParlamentar": "5385",
+      "CodigoPublicoNaLegAtual": "883",
+      "NomeParlamentar": "Irajá",
+      "NomeCompletoParlamentar": "Irajá Silvestre Filho",
+      "SexoParlamentar": "Masculino",
+      "FormaTratamento": "Senador ",
+      "UrlFotoParlamentar": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5385.jpg",
+      "UrlPaginaParlamentar": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5385",
+      "EmailParlamentar": "sen.iraja@senado.leg.br",
+      "Telefones": {
+        "Telefone": [
+          {
+            "NumeroTelefone": "33036469",
+            "OrdemPublicacao": "2",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33036474",
+            "OrdemPublicacao": "3",
+            "IndicadorFax": "Sim "
+          }
+        ]
+      },
+      "SiglaPartidoParlamentar": "PSD",
+      "UfParlamentar": "TO"
+    },
+    "Mandato": {
+      "CodigoMandato": "567",
+      "UfParlamentar": "TO",
+      "PrimeiraLegislaturaDoMandato": {
+        "NumeroLegislatura": "56",
+        "DataInicio": "2019-02-01",
+        "DataFim": "2023-01-31"
+      },
+      "SegundaLegislaturaDoMandato": {
+        "NumeroLegislatura": "57",
+        "DataInicio": "2023-02-01",
+        "DataFim": "2027-01-31"
+      },
+      "DescricaoParticipacao": "Titular",
+      "Suplentes": {
+        "Suplente": [
+          {
+            "DescricaoParticipacao": "1º Suplente",
+            "CodigoParlamentar": "6287",
+            "NomeParlamentar": "Marcos de Souza Costa"
+          },
+          {
+            "DescricaoParticipacao": "2º Suplente",
+            "CodigoParlamentar": "6004",
+            "NomeParlamentar": "Terciliano Gomes"
+          }
+        ]
+      },
+      "Exercicios": {
+        "Exercicio": [
+          {
+            "CodigoExercicio": "2908",
+            "DataInicio": "2019-02-01"
+          }
+        ]
+      }
+    },
+    "UrlGlossario": "http://legis.senado.leg.br/dadosabertos/senador/"
+  },
+  {
+    "IdentificacaoParlamentar": {
+      "CodigoParlamentar": "4770",
+      "CodigoPublicoNaLegAtual": "851",
+      "NomeParlamentar": "Izalci Lucas",
+      "NomeCompletoParlamentar": "Izalci Lucas Ferreira",
+      "SexoParlamentar": "Masculino",
+      "FormaTratamento": "Senador ",
+      "UrlFotoParlamentar": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador4770.jpg",
+      "UrlPaginaParlamentar": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/4770",
+      "EmailParlamentar": "sen.izalcilucas@senado.leg.br",
+      "Telefones": {
+        "Telefone": [
+          {
+            "NumeroTelefone": "33036049",
+            "OrdemPublicacao": "1",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33036050",
+            "OrdemPublicacao": "2",
+            "IndicadorFax": "Não"
+          }
+        ]
+      },
+      "SiglaPartidoParlamentar": "PSDB",
+      "UfParlamentar": "DF"
+    },
+    "Mandato": {
+      "CodigoMandato": "552",
+      "UfParlamentar": "DF",
+      "PrimeiraLegislaturaDoMandato": {
+        "NumeroLegislatura": "56",
+        "DataInicio": "2019-02-01",
+        "DataFim": "2023-01-31"
+      },
+      "SegundaLegislaturaDoMandato": {
+        "NumeroLegislatura": "57",
+        "DataInicio": "2023-02-01",
+        "DataFim": "2027-01-31"
+      },
+      "DescricaoParticipacao": "Titular",
+      "Suplentes": {
+        "Suplente": [
+          {
+            "DescricaoParticipacao": "1º Suplente",
+            "CodigoParlamentar": "5968",
+            "NomeParlamentar": "Luis Felipe Belmonte"
+          },
+          {
+            "DescricaoParticipacao": "2º Suplente",
+            "CodigoParlamentar": "5969",
+            "NomeParlamentar": "Andre Filipe"
+          }
+        ]
+      },
+      "Exercicios": {
+        "Exercicio": [
+          {
+            "CodigoExercicio": "2909",
+            "DataInicio": "2019-02-01"
+          }
+        ]
+      }
+    },
+    "UrlGlossario": "http://legis.senado.leg.br/dadosabertos/senador/"
+  },
+  {
+    "IdentificacaoParlamentar": {
+      "CodigoParlamentar": "35",
+      "CodigoPublicoNaLegAtual": "932",
+      "NomeParlamentar": "Jader Barbalho",
+      "NomeCompletoParlamentar": "Jader Fontenelle Barbalho",
+      "SexoParlamentar": "Masculino",
+      "FormaTratamento": "Senador ",
+      "UrlFotoParlamentar": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador35.jpg",
+      "UrlPaginaParlamentar": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/35",
+      "EmailParlamentar": "sen.jaderbarbalho@senado.leg.br",
+      "Telefones": {
+        "Telefone": [
+          {
+            "NumeroTelefone": "33039831",
+            "OrdemPublicacao": "2",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33039827",
+            "OrdemPublicacao": "3",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33039832",
+            "OrdemPublicacao": "4",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33039828",
+            "OrdemPublicacao": "5",
+            "IndicadorFax": "Sim "
+          }
+        ]
+      },
+      "SiglaPartidoParlamentar": "MDB",
+      "UfParlamentar": "PA"
+    },
+    "Mandato": {
+      "CodigoMandato": "528",
+      "UfParlamentar": "PA",
+      "PrimeiraLegislaturaDoMandato": {
+        "NumeroLegislatura": "56",
+        "DataInicio": "2019-02-01",
+        "DataFim": "2023-01-31"
+      },
+      "SegundaLegislaturaDoMandato": {
+        "NumeroLegislatura": "57",
+        "DataInicio": "2023-02-01",
+        "DataFim": "2027-01-31"
+      },
+      "DescricaoParticipacao": "Titular",
+      "Suplentes": {
+        "Suplente": [
+          {
+            "DescricaoParticipacao": "1º Suplente",
+            "CodigoParlamentar": "5999",
+            "NomeParlamentar": "Helenilson Pontes"
+          },
+          {
+            "DescricaoParticipacao": "2º Suplente",
+            "CodigoParlamentar": "6000",
+            "NomeParlamentar": "Chamon"
+          }
+        ]
+      },
+      "Exercicios": {
+        "Exercicio": [
+          {
+            "CodigoExercicio": "2910",
+            "DataInicio": "2019-02-01"
+          }
+        ]
+      }
+    },
+    "UrlGlossario": "http://legis.senado.leg.br/dadosabertos/senador/"
+  },
+  {
+    "IdentificacaoParlamentar": {
+      "CodigoParlamentar": "581",
+      "CodigoPublicoNaLegAtual": "833",
+      "NomeParlamentar": "Jaques Wagner",
+      "NomeCompletoParlamentar": "Jaques Wagner",
+      "SexoParlamentar": "Masculino",
+      "FormaTratamento": "Senador ",
+      "UrlFotoParlamentar": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador581.jpg",
+      "UrlPaginaParlamentar": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/581",
+      "EmailParlamentar": "sen.jaqueswagner@senado.leg.br",
+      "Telefones": {
+        "Telefone": [
+          {
+            "NumeroTelefone": "33036390",
+            "OrdemPublicacao": "1",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33036391",
+            "OrdemPublicacao": "2",
+            "IndicadorFax": "Não"
+          }
+        ]
+      },
+      "SiglaPartidoParlamentar": "PT",
+      "UfParlamentar": "BA"
+    },
+    "Mandato": {
+      "CodigoMandato": "555",
+      "UfParlamentar": "BA",
+      "PrimeiraLegislaturaDoMandato": {
+        "NumeroLegislatura": "56",
+        "DataInicio": "2019-02-01",
+        "DataFim": "2023-01-31"
+      },
+      "SegundaLegislaturaDoMandato": {
+        "NumeroLegislatura": "57",
+        "DataInicio": "2023-02-01",
+        "DataFim": "2027-01-31"
+      },
+      "DescricaoParticipacao": "Titular",
+      "Suplentes": {
+        "Suplente": [
+          {
+            "DescricaoParticipacao": "1º Suplente",
+            "CodigoParlamentar": "5554",
+            "NomeParlamentar": "Bebeto"
+          },
+          {
+            "DescricaoParticipacao": "2º Suplente",
+            "CodigoParlamentar": "6014",
+            "NomeParlamentar": "Luciana Leão Muniz"
+          }
+        ]
+      },
+      "Exercicios": {
+        "Exercicio": [
+          {
+            "CodigoExercicio": "2911",
+            "DataInicio": "2019-02-01"
+          }
+        ]
+      }
+    },
+    "UrlGlossario": "http://legis.senado.leg.br/dadosabertos/senador/"
+  },
+  {
+    "IdentificacaoParlamentar": {
+      "CodigoParlamentar": "4545",
+      "CodigoPublicoNaLegAtual": "823",
+      "NomeParlamentar": "Jarbas Vasconcelos",
+      "NomeCompletoParlamentar": "Jarbas de Andrade Vasconcelos",
+      "SexoParlamentar": "Masculino",
+      "FormaTratamento": "Senador ",
+      "UrlFotoParlamentar": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador4545.jpg",
+      "UrlPaginaParlamentar": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/4545",
+      "EmailParlamentar": "sen.jarbasvasconcelos@senado.leg.br",
+      "Telefones": {
+        "Telefone": {
+          "NumeroTelefone": "33033522",
+          "OrdemPublicacao": "1",
+          "IndicadorFax": "Não"
+        }
+      },
+      "SiglaPartidoParlamentar": "MDB",
+      "UfParlamentar": "PE"
+    },
+    "Mandato": {
+      "CodigoMandato": "526",
+      "UfParlamentar": "PE",
+      "PrimeiraLegislaturaDoMandato": {
+        "NumeroLegislatura": "56",
+        "DataInicio": "2019-02-01",
+        "DataFim": "2023-01-31"
+      },
+      "SegundaLegislaturaDoMandato": {
+        "NumeroLegislatura": "57",
+        "DataInicio": "2023-02-01",
+        "DataFim": "2027-01-31"
+      },
+      "DescricaoParticipacao": "Titular",
+      "Suplentes": {
+        "Suplente": [
+          {
+            "DescricaoParticipacao": "1º Suplente",
+            "CodigoParlamentar": "5917",
+            "NomeParlamentar": "Fernando Dueire"
+          },
+          {
+            "DescricaoParticipacao": "2º Suplente",
+            "CodigoParlamentar": "5918",
+            "NomeParlamentar": "Adilson Gomes"
+          }
+        ]
+      },
+      "Exercicios": {
+        "Exercicio": [
+          {
+            "CodigoExercicio": "2912",
+            "DataInicio": "2019-02-01"
+          }
+        ]
+      }
+    },
+    "UrlGlossario": "http://legis.senado.leg.br/dadosabertos/senador/"
+  },
+  {
+    "IdentificacaoParlamentar": {
+      "CodigoParlamentar": "4531",
+      "CodigoPublicoNaLegAtual": "837",
+      "NomeParlamentar": "Jayme Campos",
+      "NomeCompletoParlamentar": "Jayme Veríssimo de Campos",
+      "SexoParlamentar": "Masculino",
+      "FormaTratamento": "Senador ",
+      "UrlFotoParlamentar": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador4531.jpg",
+      "UrlPaginaParlamentar": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/4531",
+      "EmailParlamentar": "Sen.JaymeCampos@senado.leg.br",
+      "Telefones": {
+        "Telefone": [
+          {
+            "NumeroTelefone": "33032390",
+            "OrdemPublicacao": "1",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33032384",
+            "OrdemPublicacao": "2",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33032394",
+            "OrdemPublicacao": "3",
+            "IndicadorFax": "Não"
+          }
+        ]
+      },
+      "SiglaPartidoParlamentar": "DEM",
+      "UfParlamentar": "MT"
+    },
+    "Mandato": {
+      "CodigoMandato": "553",
+      "UfParlamentar": "MT",
+      "PrimeiraLegislaturaDoMandato": {
+        "NumeroLegislatura": "56",
+        "DataInicio": "2019-02-01",
+        "DataFim": "2023-01-31"
+      },
+      "SegundaLegislaturaDoMandato": {
+        "NumeroLegislatura": "57",
+        "DataInicio": "2023-02-01",
+        "DataFim": "2027-01-31"
+      },
+      "DescricaoParticipacao": "Titular",
+      "Suplentes": {
+        "Suplente": [
+          {
+            "DescricaoParticipacao": "1º Suplente",
+            "CodigoParlamentar": "5740",
+            "NomeParlamentar": "Fabio Garcia"
+          },
+          {
+            "DescricaoParticipacao": "2º Suplente",
+            "CodigoParlamentar": "5960",
+            "NomeParlamentar": "Cândida Farias"
+          }
+        ]
+      },
+      "Exercicios": {
+        "Exercicio": [
+          {
+            "CodigoExercicio": "2913",
+            "DataInicio": "2019-02-01"
+          }
+        ]
+      }
+    },
+    "UrlGlossario": "http://legis.senado.leg.br/dadosabertos/senador/"
+  },
+  {
+    "IdentificacaoParlamentar": {
+      "CodigoParlamentar": "5627",
+      "CodigoPublicoNaLegAtual": "890",
+      "NomeParlamentar": "Jean Paul Prates",
+      "NomeCompletoParlamentar": "Jean Paul Terra Prates",
+      "SexoParlamentar": "Masculino",
+      "FormaTratamento": "Senador ",
+      "UrlFotoParlamentar": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5627.jpg",
+      "UrlPaginaParlamentar": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5627",
+      "EmailParlamentar": "sen.jeanpaulprates@senado.leg.br",
+      "Telefones": {
+        "Telefone": [
+          {
+            "NumeroTelefone": "33031777",
+            "OrdemPublicacao": "1",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33031884",
+            "OrdemPublicacao": "2",
+            "IndicadorFax": "Não"
+          }
+        ]
+      },
+      "SiglaPartidoParlamentar": "PT",
+      "UfParlamentar": "RN"
+    },
+    "Mandato": {
+      "CodigoMandato": "510",
+      "UfParlamentar": "RN",
+      "PrimeiraLegislaturaDoMandato": {
+        "NumeroLegislatura": "55",
+        "DataInicio": "2015-02-01",
+        "DataFim": "2019-01-31"
+      },
+      "SegundaLegislaturaDoMandato": {
+        "NumeroLegislatura": "56",
+        "DataInicio": "2019-02-01",
+        "DataFim": "2023-01-31"
+      },
+      "DescricaoParticipacao": "1º Suplente",
+      "Titular": {
+        "DescricaoParticipacao": "Titular",
+        "CodigoParlamentar": "3713",
+        "NomeParlamentar": "Fátima Bezerra"
+      },
+      "Suplentes": {
+        "Suplente": [
+          {
+            "DescricaoParticipacao": "2º Suplente",
+            "CodigoParlamentar": "5629",
+            "NomeParlamentar": "Theodorico Netto"
+          }
+        ]
+      },
+      "Exercicios": {
+        "Exercicio": [
+          {
+            "CodigoExercicio": "2881",
+            "DataInicio": "2019-01-03"
+          }
+        ]
+      }
+    },
+    "UrlGlossario": "http://legis.senado.leg.br/dadosabertos/senador/"
+  },
+  {
+    "IdentificacaoParlamentar": {
+      "CodigoParlamentar": "5895",
+      "CodigoPublicoNaLegAtual": "863",
+      "NomeParlamentar": "Jorge Kajuru",
+      "NomeCompletoParlamentar": "Jorge Kajuru Reis da Costa Nasser",
+      "SexoParlamentar": "Masculino",
+      "FormaTratamento": "Senador ",
+      "UrlFotoParlamentar": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5895.jpg",
+      "UrlPaginaParlamentar": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5895",
+      "EmailParlamentar": "sen.jorgekajuru@senado.leg.br",
+      "Telefones": {
+        "Telefone": [
+          {
+            "NumeroTelefone": "33032844",
+            "OrdemPublicacao": "1",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33032031",
+            "OrdemPublicacao": "2",
+            "IndicadorFax": "Não"
+          }
+        ]
+      },
+      "SiglaPartidoParlamentar": "CIDADANIA",
+      "UfParlamentar": "GO"
+    },
+    "Mandato": {
+      "CodigoMandato": "533",
+      "UfParlamentar": "GO",
+      "PrimeiraLegislaturaDoMandato": {
+        "NumeroLegislatura": "56",
+        "DataInicio": "2019-02-01",
+        "DataFim": "2023-01-31"
+      },
+      "SegundaLegislaturaDoMandato": {
+        "NumeroLegislatura": "57",
+        "DataInicio": "2023-02-01",
+        "DataFim": "2027-01-31"
+      },
+      "DescricaoParticipacao": "Titular",
+      "Suplentes": {
+        "Suplente": [
+          {
+            "DescricaoParticipacao": "1º Suplente",
+            "CodigoParlamentar": "5896",
+            "NomeParlamentar": "Benjamin Beze Junior"
+          },
+          {
+            "DescricaoParticipacao": "2º Suplente",
+            "CodigoParlamentar": "5897",
+            "NomeParlamentar": "Milton Mercêz"
+          }
+        ]
+      },
+      "Exercicios": {
+        "Exercicio": [
+          {
+            "CodigoExercicio": "2914",
+            "DataInicio": "2019-02-01"
+          }
+        ]
+      }
+    },
+    "UrlGlossario": "http://legis.senado.leg.br/dadosabertos/senador/"
+  },
+  {
+    "IdentificacaoParlamentar": {
+      "CodigoParlamentar": "5350",
+      "CodigoPublicoNaLegAtual": "884",
+      "NomeParlamentar": "Jorginho Mello",
+      "NomeCompletoParlamentar": "Jorginho dos Santos Mello",
+      "SexoParlamentar": "Masculino",
+      "FormaTratamento": "Senador ",
+      "UrlFotoParlamentar": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5350.jpg",
+      "UrlPaginaParlamentar": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5350",
+      "EmailParlamentar": "sen.jorginhomello@senado.leg.br",
+      "Telefones": {
+        "Telefone": {
+          "NumeroTelefone": "33032200",
+          "OrdemPublicacao": "1",
+          "IndicadorFax": "Não"
+        }
+      },
+      "SiglaPartidoParlamentar": "PL",
+      "UfParlamentar": "SC"
+    },
+    "Mandato": {
+      "CodigoMandato": "571",
+      "UfParlamentar": "SC",
+      "PrimeiraLegislaturaDoMandato": {
+        "NumeroLegislatura": "56",
+        "DataInicio": "2019-02-01",
+        "DataFim": "2023-01-31"
+      },
+      "SegundaLegislaturaDoMandato": {
+        "NumeroLegislatura": "57",
+        "DataInicio": "2023-02-01",
+        "DataFim": "2027-01-31"
+      },
+      "DescricaoParticipacao": "Titular",
+      "Suplentes": {
+        "Suplente": [
+          {
+            "DescricaoParticipacao": "1º Suplente",
+            "CodigoParlamentar": "6010",
+            "NomeParlamentar": "Ivete da Silveira"
+          },
+          {
+            "DescricaoParticipacao": "2º Suplente",
+            "CodigoParlamentar": "6011",
+            "NomeParlamentar": "Beto Martins"
+          }
+        ]
+      },
+      "Exercicios": {
+        "Exercicio": [
+          {
+            "CodigoExercicio": "2915",
+            "DataInicio": "2019-02-01"
+          }
+        ]
+      }
+    },
+    "UrlGlossario": "http://legis.senado.leg.br/dadosabertos/senador/"
+  },
+  {
+    "IdentificacaoParlamentar": {
+      "CodigoParlamentar": "3361",
+      "CodigoPublicoNaLegAtual": "819",
+      "NomeParlamentar": "José Maranhão",
+      "NomeCompletoParlamentar": "José Targino Maranhão",
+      "SexoParlamentar": "Masculino",
+      "FormaTratamento": "Senador ",
+      "UrlFotoParlamentar": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador3361.jpg",
+      "UrlPaginaParlamentar": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/3361",
+      "EmailParlamentar": "sen.josemaranhao@senado.leg.br",
+      "Telefones": {
+        "Telefone": [
+          {
+            "NumeroTelefone": "33036490",
+            "OrdemPublicacao": "1",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33036485",
+            "OrdemPublicacao": "2",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33036493",
+            "OrdemPublicacao": "3",
+            "IndicadorFax": "Sim "
+          }
+        ]
+      },
+      "SiglaPartidoParlamentar": "MDB",
+      "UfParlamentar": "PB"
+    },
+    "Mandato": {
+      "CodigoMandato": "513",
+      "UfParlamentar": "PB",
+      "PrimeiraLegislaturaDoMandato": {
+        "NumeroLegislatura": "55",
+        "DataInicio": "2015-02-01",
+        "DataFim": "2019-01-31"
+      },
+      "SegundaLegislaturaDoMandato": {
+        "NumeroLegislatura": "56",
+        "DataInicio": "2019-02-01",
+        "DataFim": "2023-01-31"
+      },
+      "DescricaoParticipacao": "Titular",
+      "Suplentes": {
+        "Suplente": [
+          {
+            "DescricaoParticipacao": "1º Suplente",
+            "CodigoParlamentar": "5281",
+            "NomeParlamentar": "Nilda Gondim"
+          },
+          {
+            "DescricaoParticipacao": "2º Suplente",
+            "CodigoParlamentar": "5601",
+            "NomeParlamentar": "Roosevelt Vita"
+          }
+        ]
+      },
+      "Exercicios": {
+        "Exercicio": [
+          {
+            "CodigoExercicio": "2738",
+            "DataInicio": "2015-02-01"
+          }
+        ]
+      }
+    },
+    "UrlGlossario": "http://legis.senado.leg.br/dadosabertos/senador/"
+  },
+  {
+    "IdentificacaoParlamentar": {
+      "CodigoParlamentar": "90",
+      "CodigoPublicoNaLegAtual": "846",
+      "NomeParlamentar": "José Serra",
+      "NomeCompletoParlamentar": "José Serra",
+      "SexoParlamentar": "Masculino",
+      "FormaTratamento": "Senador ",
+      "UrlFotoParlamentar": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador90.jpg",
+      "UrlPaginaParlamentar": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/90",
+      "EmailParlamentar": "sen.joseserra@senado.leg.br",
+      "Telefones": {
+        "Telefone": [
+          {
+            "NumeroTelefone": "33036651",
+            "OrdemPublicacao": "1",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33036655",
+            "OrdemPublicacao": "3",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33036659",
+            "OrdemPublicacao": "4",
+            "IndicadorFax": "Sim "
+          }
+        ]
+      },
+      "SiglaPartidoParlamentar": "PSDB",
+      "UfParlamentar": "SP"
+    },
+    "Mandato": {
+      "CodigoMandato": "516",
+      "UfParlamentar": "SP",
+      "PrimeiraLegislaturaDoMandato": {
+        "NumeroLegislatura": "55",
+        "DataInicio": "2015-02-01",
+        "DataFim": "2019-01-31"
+      },
+      "SegundaLegislaturaDoMandato": {
+        "NumeroLegislatura": "56",
+        "DataInicio": "2019-02-01",
+        "DataFim": "2023-01-31"
+      },
+      "DescricaoParticipacao": "Titular",
+      "Suplentes": {
+        "Suplente": [
+          {
+            "DescricaoParticipacao": "1º Suplente",
+            "CodigoParlamentar": "878",
+            "NomeParlamentar": "José Aníbal"
+          },
+          {
+            "DescricaoParticipacao": "2º Suplente",
+            "CodigoParlamentar": "5633",
+            "NomeParlamentar": "Atilio Francisco"
+          }
+        ]
+      },
+      "Exercicios": {
+        "Exercicio": [
+          {
+            "CodigoExercicio": "2814",
+            "DataInicio": "2017-02-23"
+          },
+          {
+            "CodigoExercicio": "2739",
+            "DataInicio": "2015-02-01",
+            "DataFim": "2016-05-13",
+            "SiglaCausaAfastamento": "AFO",
+            "DescricaoCausaAfastamento": "Afastamento do exercício"
+          }
+        ]
+      }
+    },
+    "UrlGlossario": "http://legis.senado.leg.br/dadosabertos/senador/"
+  },
+  {
+    "IdentificacaoParlamentar": {
+      "CodigoParlamentar": "5929",
+      "CodigoPublicoNaLegAtual": "838",
+      "NomeParlamentar": "Juíza Selma",
+      "NomeCompletoParlamentar": "Selma Rosane Santos Arruda",
+      "SexoParlamentar": "Feminino",
+      "FormaTratamento": "Senadora ",
+      "UrlFotoParlamentar": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5929.jpg",
+      "UrlPaginaParlamentar": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5929",
+      "EmailParlamentar": "sen.selmaarruda@senado.leg.br",
+      "Telefones": {
+        "Telefone": {
+          "NumeroTelefone": "33036408",
+          "OrdemPublicacao": "1",
+          "IndicadorFax": "Não"
+        }
+      },
+      "SiglaPartidoParlamentar": "PODEMOS",
+      "UfParlamentar": "MT"
+    },
+    "Mandato": {
+      "CodigoMandato": "544",
+      "UfParlamentar": "MT",
+      "PrimeiraLegislaturaDoMandato": {
+        "NumeroLegislatura": "56",
+        "DataInicio": "2019-02-01",
+        "DataFim": "2023-01-31"
+      },
+      "SegundaLegislaturaDoMandato": {
+        "NumeroLegislatura": "57",
+        "DataInicio": "2023-02-01",
+        "DataFim": "2027-01-31"
+      },
+      "DescricaoParticipacao": "Titular",
+      "Suplentes": {
+        "Suplente": [
+          {
+            "DescricaoParticipacao": "1º Suplente",
+            "CodigoParlamentar": "5932",
+            "NomeParlamentar": "Beto Possamai"
+          },
+          {
+            "DescricaoParticipacao": "2º Suplente",
+            "CodigoParlamentar": "5933",
+            "NomeParlamentar": "Clerie Fabiana"
+          }
+        ]
+      },
+      "Exercicios": {
+        "Exercicio": [
+          {
+            "CodigoExercicio": "2934",
+            "DataInicio": "2019-02-01"
+          }
+        ]
+      }
+    },
+    "UrlGlossario": "http://legis.senado.leg.br/dadosabertos/senador/"
+  },
+  {
+    "IdentificacaoParlamentar": {
+      "CodigoParlamentar": "1249",
+      "CodigoPublicoNaLegAtual": "885",
+      "NomeParlamentar": "Kátia Abreu",
+      "NomeCompletoParlamentar": "Kátia Regina de Abreu",
+      "SexoParlamentar": "Feminino",
+      "FormaTratamento": "Senadora ",
+      "UrlFotoParlamentar": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador1249.jpg",
+      "UrlPaginaParlamentar": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/1249",
+      "EmailParlamentar": "sen.katiaabreu@senado.leg.br",
+      "Telefones": {
+        "Telefone": [
+          {
+            "NumeroTelefone": "33032464",
+            "OrdemPublicacao": "1",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33032708",
+            "OrdemPublicacao": "2",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33035771",
+            "OrdemPublicacao": "3",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33032466",
+            "OrdemPublicacao": "4",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33032990",
+            "OrdemPublicacao": "5",
+            "IndicadorFax": "Sim "
+          }
+        ]
+      },
+      "SiglaPartidoParlamentar": "PDT",
+      "UfParlamentar": "TO"
+    },
+    "Mandato": {
+      "CodigoMandato": "518",
+      "UfParlamentar": "TO",
+      "PrimeiraLegislaturaDoMandato": {
+        "NumeroLegislatura": "55",
+        "DataInicio": "2015-02-01",
+        "DataFim": "2019-01-31"
+      },
+      "SegundaLegislaturaDoMandato": {
+        "NumeroLegislatura": "56",
+        "DataInicio": "2019-02-01",
+        "DataFim": "2023-01-31"
+      },
+      "DescricaoParticipacao": "Titular",
+      "Suplentes": {
+        "Suplente": [
+          {
+            "DescricaoParticipacao": "1º Suplente",
+            "CodigoParlamentar": "5637",
+            "NomeParlamentar": "Donizeti Nogueira"
+          },
+          {
+            "DescricaoParticipacao": "2º Suplente",
+            "CodigoParlamentar": "5639",
+            "NomeParlamentar": "Guaracy Silveira"
+          }
+        ]
+      },
+      "Exercicios": {
+        "Exercicio": [
+          {
+            "CodigoExercicio": "2886",
+            "DataInicio": "2019-01-31"
+          },
+          {
+            "CodigoExercicio": "2783",
+            "DataInicio": "2016-05-12",
+            "DataFim": "2018-10-28",
+            "SiglaCausaAfastamento": "LP ",
+            "DescricaoCausaAfastamento": "Licença Particular"
+          },
+          {
+            "CodigoExercicio": "2757",
+            "DataInicio": "2015-02-01",
+            "DataFim": "2015-02-02",
+            "SiglaCausaAfastamento": "AFO",
+            "DescricaoCausaAfastamento": "Afastamento do exercício"
+          }
+        ]
+      }
+    },
+    "UrlGlossario": "http://legis.senado.leg.br/dadosabertos/senador/"
+  },
+  {
+    "IdentificacaoParlamentar": {
+      "CodigoParlamentar": "5533",
+      "CodigoPublicoNaLegAtual": "861",
+      "NomeParlamentar": "Lasier Martins",
+      "NomeCompletoParlamentar": "Lasier Costa Martins",
+      "SexoParlamentar": "Masculino",
+      "FormaTratamento": "Senador ",
+      "UrlFotoParlamentar": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5533.jpg",
+      "UrlPaginaParlamentar": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5533",
+      "EmailParlamentar": "sen.lasiermartins@senado.leg.br",
+      "Telefones": {
+        "Telefone": [
+          {
+            "NumeroTelefone": "33032323",
+            "OrdemPublicacao": "1",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33032321",
+            "OrdemPublicacao": "2",
+            "IndicadorFax": "Não"
+          }
+        ]
+      },
+      "SiglaPartidoParlamentar": "PODEMOS",
+      "UfParlamentar": "RS"
+    },
+    "Mandato": {
+      "CodigoMandato": "497",
+      "UfParlamentar": "RS",
+      "PrimeiraLegislaturaDoMandato": {
+        "NumeroLegislatura": "55",
+        "DataInicio": "2015-02-01",
+        "DataFim": "2019-01-31"
+      },
+      "SegundaLegislaturaDoMandato": {
+        "NumeroLegislatura": "56",
+        "DataInicio": "2019-02-01",
+        "DataFim": "2023-01-31"
+      },
+      "DescricaoParticipacao": "Titular",
+      "Suplentes": {
+        "Suplente": [
+          {
+            "DescricaoParticipacao": "1º Suplente",
+            "CodigoParlamentar": "5623",
+            "NomeParlamentar": "Christopher Goulart"
+          },
+          {
+            "DescricaoParticipacao": "2º Suplente",
+            "CodigoParlamentar": "5625",
+            "NomeParlamentar": "Adilson Silva dos Santos"
+          }
+        ]
+      },
+      "Exercicios": {
+        "Exercicio": [
+          {
+            "CodigoExercicio": "2740",
+            "DataInicio": "2015-02-01"
+          }
+        ]
+      }
+    },
+    "UrlGlossario": "http://legis.senado.leg.br/dadosabertos/senador/"
+  },
+  {
+    "IdentificacaoParlamentar": {
+      "CodigoParlamentar": "5979",
+      "CodigoPublicoNaLegAtual": "853",
+      "NomeParlamentar": "Leila Barros",
+      "NomeCompletoParlamentar": "Leila Gomes de Barros Rêgo",
+      "SexoParlamentar": "Feminino",
+      "FormaTratamento": "Senadora ",
+      "UrlFotoParlamentar": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5979.jpg",
+      "UrlPaginaParlamentar": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5979",
+      "EmailParlamentar": "sen.leilabarros@senado.leg.br",
+      "Telefones": {
+        "Telefone": {
+          "NumeroTelefone": "33036427",
+          "OrdemPublicacao": "2",
+          "IndicadorFax": "Não"
+        }
+      },
+      "SiglaPartidoParlamentar": "PSB",
+      "UfParlamentar": "DF"
+    },
+    "Mandato": {
+      "CodigoMandato": "558",
+      "UfParlamentar": "DF",
+      "PrimeiraLegislaturaDoMandato": {
+        "NumeroLegislatura": "56",
+        "DataInicio": "2019-02-01",
+        "DataFim": "2023-01-31"
+      },
+      "SegundaLegislaturaDoMandato": {
+        "NumeroLegislatura": "57",
+        "DataInicio": "2023-02-01",
+        "DataFim": "2027-01-31"
+      },
+      "DescricaoParticipacao": "Titular",
+      "Suplentes": {
+        "Suplente": [
+          {
+            "DescricaoParticipacao": "1º Suplente",
+            "CodigoParlamentar": "5977",
+            "NomeParlamentar": "Leany Lemos"
+          },
+          {
+            "DescricaoParticipacao": "2º Suplente",
+            "CodigoParlamentar": "5978",
+            "NomeParlamentar": "Ivonete Nascimento"
+          }
+        ]
+      },
+      "Exercicios": {
+        "Exercicio": [
+          {
+            "CodigoExercicio": "2918",
+            "DataInicio": "2019-02-01"
+          }
+        ]
+      }
+    },
+    "UrlGlossario": "http://legis.senado.leg.br/dadosabertos/senador/"
+  },
+  {
+    "IdentificacaoParlamentar": {
+      "CodigoParlamentar": "1186",
+      "CodigoPublicoNaLegAtual": "860",
+      "NomeParlamentar": "Luis Carlos Heinze",
+      "NomeCompletoParlamentar": "Luis Carlos Heinze",
+      "SexoParlamentar": "Masculino",
+      "FormaTratamento": "Senador ",
+      "UrlFotoParlamentar": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador1186.jpg",
+      "UrlPaginaParlamentar": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/1186",
+      "EmailParlamentar": "sen.luiscarlosheinze@senado.leg.br",
+      "Telefones": {
+        "Telefone": [
+          {
+            "NumeroTelefone": "33034124",
+            "OrdemPublicacao": "1",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33034132",
+            "OrdemPublicacao": "1",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33034127",
+            "OrdemPublicacao": "2",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33034129",
+            "OrdemPublicacao": "4",
+            "IndicadorFax": "Não"
+          }
+        ]
+      },
+      "SiglaPartidoParlamentar": "PP",
+      "UfParlamentar": "RS"
+    },
+    "Mandato": {
+      "CodigoMandato": "574",
+      "UfParlamentar": "RS",
+      "PrimeiraLegislaturaDoMandato": {
+        "NumeroLegislatura": "56",
+        "DataInicio": "2019-02-01",
+        "DataFim": "2023-01-31"
+      },
+      "SegundaLegislaturaDoMandato": {
+        "NumeroLegislatura": "57",
+        "DataInicio": "2023-02-01",
+        "DataFim": "2027-01-31"
+      },
+      "DescricaoParticipacao": "Titular",
+      "Suplentes": {
+        "Suplente": [
+          {
+            "DescricaoParticipacao": "1º Suplente",
+            "CodigoParlamentar": "6015",
+            "NomeParlamentar": "Ireneu Orth"
+          },
+          {
+            "DescricaoParticipacao": "2º Suplente",
+            "CodigoParlamentar": "6016",
+            "NomeParlamentar": "Drica de Lucena"
+          }
+        ]
+      },
+      "Exercicios": {
+        "Exercicio": [
+          {
+            "CodigoExercicio": "2919",
+            "DataInicio": "2019-02-01"
+          }
+        ]
+      }
+    },
+    "UrlGlossario": "http://legis.senado.leg.br/dadosabertos/senador/"
+  },
+  {
+    "IdentificacaoParlamentar": {
+      "CodigoParlamentar": "151",
+      "CodigoPublicoNaLegAtual": "942",
+      "NomeParlamentar": "Luiz Pastore",
+      "NomeCompletoParlamentar": "Luiz Osvaldo Pastore",
+      "SexoParlamentar": "Masculino",
+      "FormaTratamento": "Senador ",
+      "UrlFotoParlamentar": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador151.jpg",
+      "UrlPaginaParlamentar": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/151",
+      "Telefones": {
+        "Telefone": {
+          "NumeroTelefone": "33031156",
+          "OrdemPublicacao": "1",
+          "IndicadorFax": "Não"
+        }
+      },
+      "SiglaPartidoParlamentar": "MDB",
+      "UfParlamentar": "ES"
+    },
+    "Mandato": {
+      "CodigoMandato": "503",
+      "UfParlamentar": "ES",
+      "PrimeiraLegislaturaDoMandato": {
+        "NumeroLegislatura": "55",
+        "DataInicio": "2015-02-01",
+        "DataFim": "2019-01-31"
+      },
+      "SegundaLegislaturaDoMandato": {
+        "NumeroLegislatura": "56",
+        "DataInicio": "2019-02-01",
+        "DataFim": "2023-01-31"
+      },
+      "DescricaoParticipacao": "1º Suplente",
+      "Titular": {
+        "DescricaoParticipacao": "Titular",
+        "CodigoParlamentar": "2331",
+        "NomeParlamentar": "Rose de Freitas"
+      },
+      "Suplentes": {
+        "Suplente": [
+          {
+            "DescricaoParticipacao": "2º Suplente",
+            "CodigoParlamentar": "5583",
+            "NomeParlamentar": "Schariff Moyses"
+          }
+        ]
+      },
+      "Exercicios": {
+        "Exercicio": [
+          {
+            "CodigoExercicio": "2948",
+            "DataInicio": "2019-11-20"
+          }
+        ]
+      }
+    },
+    "UrlGlossario": "http://legis.senado.leg.br/dadosabertos/senador/"
+  },
+  {
+    "IdentificacaoParlamentar": {
+      "CodigoParlamentar": "5585",
+      "CodigoPublicoNaLegAtual": "889",
+      "NomeParlamentar": "Luiz do Carmo",
+      "NomeCompletoParlamentar": "Luiz Carlos do Carmo",
+      "SexoParlamentar": "Masculino",
+      "FormaTratamento": "Senador ",
+      "UrlFotoParlamentar": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5585.jpg",
+      "UrlPaginaParlamentar": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5585",
+      "EmailParlamentar": "sen.luizcarlosdocarmo@senado.leg.br",
+      "Telefones": {
+        "Telefone": [
+          {
+            "NumeroTelefone": "33036439",
+            "OrdemPublicacao": "1",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33036440",
+            "OrdemPublicacao": "2",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33036445",
+            "OrdemPublicacao": "3",
+            "IndicadorFax": "Não"
+          }
+        ]
+      },
+      "SiglaPartidoParlamentar": "MDB",
+      "UfParlamentar": "GO"
+    },
+    "Mandato": {
+      "CodigoMandato": "504",
+      "UfParlamentar": "GO",
+      "PrimeiraLegislaturaDoMandato": {
+        "NumeroLegislatura": "55",
+        "DataInicio": "2015-02-01",
+        "DataFim": "2019-01-31"
+      },
+      "SegundaLegislaturaDoMandato": {
+        "NumeroLegislatura": "56",
+        "DataInicio": "2019-02-01",
+        "DataFim": "2023-01-31"
+      },
+      "DescricaoParticipacao": "1º Suplente",
+      "Titular": {
+        "DescricaoParticipacao": "Titular",
+        "CodigoParlamentar": "456",
+        "NomeParlamentar": "Ronaldo Caiado"
+      },
+      "Suplentes": {
+        "Suplente": [
+          {
+            "DescricaoParticipacao": "2º Suplente",
+            "CodigoParlamentar": "5587",
+            "NomeParlamentar": "Eladio Carneiro"
+          }
+        ]
+      },
+      "Exercicios": {
+        "Exercicio": [
+          {
+            "CodigoExercicio": "2879",
+            "DataInicio": "2019-01-02"
+          }
+        ]
+      }
+    },
+    "UrlGlossario": "http://legis.senado.leg.br/dadosabertos/senador/"
+  },
+  {
+    "IdentificacaoParlamentar": {
+      "CodigoParlamentar": "5557",
+      "CodigoPublicoNaLegAtual": "888",
+      "NomeParlamentar": "Mailza Gomes",
+      "NomeCompletoParlamentar": "Mailza Assis da Silva",
+      "SexoParlamentar": "Feminino",
+      "FormaTratamento": "Senadora ",
+      "UrlFotoParlamentar": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5557.jpg",
+      "UrlPaginaParlamentar": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5557",
+      "EmailParlamentar": "sen.mailzagomes@senado.leg.br",
+      "Telefones": {
+        "Telefone": [
+          {
+            "NumeroTelefone": "33031357",
+            "OrdemPublicacao": "1",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33031367",
+            "OrdemPublicacao": "2",
+            "IndicadorFax": "Não"
+          }
+        ]
+      },
+      "SiglaPartidoParlamentar": "PP",
+      "UfParlamentar": "AC"
+    },
+    "Mandato": {
+      "CodigoMandato": "500",
+      "UfParlamentar": "AC",
+      "PrimeiraLegislaturaDoMandato": {
+        "NumeroLegislatura": "55",
+        "DataInicio": "2015-02-01",
+        "DataFim": "2019-01-31"
+      },
+      "SegundaLegislaturaDoMandato": {
+        "NumeroLegislatura": "56",
+        "DataInicio": "2019-02-01",
+        "DataFim": "2023-01-31"
+      },
+      "DescricaoParticipacao": "1º Suplente",
+      "Titular": {
+        "DescricaoParticipacao": "Titular",
+        "CodigoParlamentar": "4558",
+        "NomeParlamentar": "Gladson Cameli"
+      },
+      "Suplentes": {
+        "Suplente": [
+          {
+            "DescricaoParticipacao": "2º Suplente",
+            "CodigoParlamentar": "5559",
+            "NomeParlamentar": "Bispo José"
+          }
+        ]
+      },
+      "Exercicios": {
+        "Exercicio": [
+          {
+            "CodigoExercicio": "2880",
+            "DataInicio": "2019-01-03"
+          }
+        ]
+      }
+    },
+    "UrlGlossario": "http://legis.senado.leg.br/dadosabertos/senador/"
+  },
+  {
+    "IdentificacaoParlamentar": {
+      "CodigoParlamentar": "5666",
+      "CodigoPublicoNaLegAtual": "848",
+      "NomeParlamentar": "Major Olimpio",
+      "NomeCompletoParlamentar": "Sergio Olimpio Gomes",
+      "SexoParlamentar": "Masculino",
+      "FormaTratamento": "Senador ",
+      "UrlFotoParlamentar": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5666.jpg",
+      "UrlPaginaParlamentar": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5666",
+      "EmailParlamentar": "sen.majorolimpio@senado.leg.br",
+      "Telefones": {
+        "Telefone": {
+          "NumeroTelefone": "33034177",
+          "OrdemPublicacao": "1",
+          "IndicadorFax": "Não"
+        }
+      },
+      "SiglaPartidoParlamentar": "PSL",
+      "UfParlamentar": "SP"
+    },
+    "Mandato": {
+      "CodigoMandato": "570",
+      "UfParlamentar": "SP",
+      "PrimeiraLegislaturaDoMandato": {
+        "NumeroLegislatura": "56",
+        "DataInicio": "2019-02-01",
+        "DataFim": "2023-01-31"
+      },
+      "SegundaLegislaturaDoMandato": {
+        "NumeroLegislatura": "57",
+        "DataInicio": "2023-02-01",
+        "DataFim": "2027-01-31"
+      },
+      "DescricaoParticipacao": "Titular",
+      "Suplentes": {
+        "Suplente": [
+          {
+            "DescricaoParticipacao": "1º Suplente",
+            "CodigoParlamentar": "6008",
+            "NomeParlamentar": "Giordano"
+          },
+          {
+            "DescricaoParticipacao": "2º Suplente",
+            "CodigoParlamentar": "6009",
+            "NomeParlamentar": "Astronauta Marcos Pontes"
+          }
+        ]
+      },
+      "Exercicios": {
+        "Exercicio": [
+          {
+            "CodigoExercicio": "2936",
+            "DataInicio": "2019-02-01"
+          }
+        ]
+      }
+    },
+    "UrlGlossario": "http://legis.senado.leg.br/dadosabertos/senador/"
+  },
+  {
+    "IdentificacaoParlamentar": {
+      "CodigoParlamentar": "5376",
+      "CodigoPublicoNaLegAtual": "847",
+      "NomeParlamentar": "Mara Gabrilli",
+      "NomeCompletoParlamentar": "Mara Cristina Gabrilli",
+      "SexoParlamentar": "Feminino",
+      "FormaTratamento": "Senadora ",
+      "UrlFotoParlamentar": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5376.jpg",
+      "UrlPaginaParlamentar": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5376",
+      "EmailParlamentar": "sen.maragabrilli@senado.leg.br",
+      "Telefones": {
+        "Telefone": [
+          {
+            "NumeroTelefone": "33032191",
+            "OrdemPublicacao": "1",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33032775",
+            "OrdemPublicacao": "3",
+            "IndicadorFax": "Sim "
+          }
+        ]
+      },
+      "SiglaPartidoParlamentar": "PSDB",
+      "UfParlamentar": "SP"
+    },
+    "Mandato": {
+      "CodigoMandato": "569",
+      "UfParlamentar": "SP",
+      "PrimeiraLegislaturaDoMandato": {
+        "NumeroLegislatura": "56",
+        "DataInicio": "2019-02-01",
+        "DataFim": "2023-01-31"
+      },
+      "SegundaLegislaturaDoMandato": {
+        "NumeroLegislatura": "57",
+        "DataInicio": "2023-02-01",
+        "DataFim": "2027-01-31"
+      },
+      "DescricaoParticipacao": "Titular",
+      "Suplentes": {
+        "Suplente": [
+          {
+            "DescricaoParticipacao": "1º Suplente",
+            "CodigoParlamentar": "3651",
+            "NomeParlamentar": "Alfredo Cotait Neto"
+          },
+          {
+            "DescricaoParticipacao": "2º Suplente",
+            "CodigoParlamentar": "6007",
+            "NomeParlamentar": "Ivani Boscolo"
+          }
+        ]
+      },
+      "Exercicios": {
+        "Exercicio": [
+          {
+            "CodigoExercicio": "2922",
+            "DataInicio": "2019-02-01"
+          }
+        ]
+      }
+    },
+    "UrlGlossario": "http://legis.senado.leg.br/dadosabertos/senador/"
+  },
+  {
+    "IdentificacaoParlamentar": {
+      "CodigoParlamentar": "742",
+      "CodigoPublicoNaLegAtual": "813",
+      "NomeParlamentar": "Marcelo Castro",
+      "NomeCompletoParlamentar": "Marcelo Costa e Castro",
+      "SexoParlamentar": "Masculino",
+      "FormaTratamento": "Senador ",
+      "UrlFotoParlamentar": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador742.jpg",
+      "UrlPaginaParlamentar": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/742",
+      "EmailParlamentar": "sen.marcelocastro@senado.leg.br",
+      "Telefones": {
+        "Telefone": {
+          "NumeroTelefone": "33036130",
+          "OrdemPublicacao": "1",
+          "IndicadorFax": "Não"
+        }
+      },
+      "SiglaPartidoParlamentar": "MDB",
+      "UfParlamentar": "PI"
+    },
+    "Mandato": {
+      "CodigoMandato": "539",
+      "UfParlamentar": "PI",
+      "PrimeiraLegislaturaDoMandato": {
+        "NumeroLegislatura": "56",
+        "DataInicio": "2019-02-01",
+        "DataFim": "2023-01-31"
+      },
+      "SegundaLegislaturaDoMandato": {
+        "NumeroLegislatura": "57",
+        "DataInicio": "2023-02-01",
+        "DataFim": "2027-01-31"
+      },
+      "DescricaoParticipacao": "Titular",
+      "Suplentes": {
+        "Suplente": [
+          {
+            "DescricaoParticipacao": "1º Suplente",
+            "CodigoParlamentar": "5910",
+            "NomeParlamentar": "José Hamilton"
+          },
+          {
+            "DescricaoParticipacao": "2º Suplente",
+            "CodigoParlamentar": "5911",
+            "NomeParlamentar": "Rosário Bezerra"
+          }
+        ]
+      },
+      "Exercicios": {
+        "Exercicio": [
+          {
+            "CodigoExercicio": "2923",
+            "DataInicio": "2019-02-01"
+          }
+        ]
+      }
+    },
+    "UrlGlossario": "http://legis.senado.leg.br/dadosabertos/senador/"
+  },
+  {
+    "IdentificacaoParlamentar": {
+      "CodigoParlamentar": "285",
+      "CodigoPublicoNaLegAtual": "849",
+      "NomeParlamentar": "Marcio Bittar",
+      "NomeCompletoParlamentar": "Márcio Miguel Bittar",
+      "SexoParlamentar": "Masculino",
+      "FormaTratamento": "Senador ",
+      "UrlFotoParlamentar": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador285.jpg",
+      "UrlPaginaParlamentar": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/285",
+      "EmailParlamentar": "sen.marciobittar@senado.leg.br",
+      "Telefones": {
+        "Telefone": [
+          {
+            "NumeroTelefone": "33032115",
+            "OrdemPublicacao": "1",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33032119",
+            "OrdemPublicacao": "2",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33031652",
+            "OrdemPublicacao": "3",
+            "IndicadorFax": "Não"
+          }
+        ]
+      },
+      "SiglaPartidoParlamentar": "MDB",
+      "UfParlamentar": "AC"
+    },
+    "Mandato": {
+      "CodigoMandato": "536",
+      "UfParlamentar": "AC",
+      "PrimeiraLegislaturaDoMandato": {
+        "NumeroLegislatura": "56",
+        "DataInicio": "2019-02-01",
+        "DataFim": "2023-01-31"
+      },
+      "SegundaLegislaturaDoMandato": {
+        "NumeroLegislatura": "57",
+        "DataInicio": "2023-02-01",
+        "DataFim": "2027-01-31"
+      },
+      "DescricaoParticipacao": "Titular",
+      "Suplentes": {
+        "Suplente": [
+          {
+            "DescricaoParticipacao": "1º Suplente",
+            "CodigoParlamentar": "5902",
+            "NomeParlamentar": "Eduardo Velloso"
+          },
+          {
+            "DescricaoParticipacao": "2º Suplente",
+            "CodigoParlamentar": "5904",
+            "NomeParlamentar": "Macapá"
+          }
+        ]
+      },
+      "Exercicios": {
+        "Exercicio": [
+          {
+            "CodigoExercicio": "2924",
+            "DataInicio": "2019-02-01"
+          }
+        ]
+      }
+    },
+    "UrlGlossario": "http://legis.senado.leg.br/dadosabertos/senador/"
+  },
+  {
+    "IdentificacaoParlamentar": {
+      "CodigoParlamentar": "5422",
+      "CodigoPublicoNaLegAtual": "868",
+      "NomeParlamentar": "Marcos Rogério",
+      "NomeCompletoParlamentar": "Marcos Rogério da Silva Brito",
+      "SexoParlamentar": "Masculino",
+      "FormaTratamento": "Senador ",
+      "UrlFotoParlamentar": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5422.jpg",
+      "UrlPaginaParlamentar": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5422",
+      "EmailParlamentar": "sen.marcosrogerio@senado.leg.br",
+      "Telefones": {
+        "Telefone": {
+          "NumeroTelefone": "33036148",
+          "OrdemPublicacao": "1",
+          "IndicadorFax": "Não"
+        }
+      },
+      "SiglaPartidoParlamentar": "DEM",
+      "UfParlamentar": "RO"
+    },
+    "Mandato": {
+      "CodigoMandato": "576",
+      "UfParlamentar": "RO",
+      "PrimeiraLegislaturaDoMandato": {
+        "NumeroLegislatura": "56",
+        "DataInicio": "2019-02-01",
+        "DataFim": "2023-01-31"
+      },
+      "SegundaLegislaturaDoMandato": {
+        "NumeroLegislatura": "57",
+        "DataInicio": "2023-02-01",
+        "DataFim": "2027-01-31"
+      },
+      "DescricaoParticipacao": "Titular",
+      "Suplentes": {
+        "Suplente": [
+          {
+            "DescricaoParticipacao": "1º Suplente",
+            "CodigoParlamentar": "6021",
+            "NomeParlamentar": "Samuel Araujo"
+          },
+          {
+            "DescricaoParticipacao": "2º Suplente",
+            "CodigoParlamentar": "6022",
+            "NomeParlamentar": "Pastor Severino"
+          }
+        ]
+      },
+      "Exercicios": {
+        "Exercicio": [
+          {
+            "CodigoExercicio": "2926",
+            "DataInicio": "2019-02-01"
+          }
+        ]
+      }
+    },
+    "UrlGlossario": "http://legis.senado.leg.br/dadosabertos/senador/"
+  },
+  {
+    "IdentificacaoParlamentar": {
+      "CodigoParlamentar": "5942",
+      "CodigoPublicoNaLegAtual": "862",
+      "NomeParlamentar": "Marcos do Val",
+      "NomeCompletoParlamentar": "Marcos Ribeiro do Val",
+      "SexoParlamentar": "Masculino",
+      "FormaTratamento": "Senador ",
+      "UrlFotoParlamentar": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5942.jpg",
+      "UrlPaginaParlamentar": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5942",
+      "EmailParlamentar": "sen.marcosdoval@senado.leg.br",
+      "Telefones": {
+        "Telefone": [
+          {
+            "NumeroTelefone": "33036747",
+            "OrdemPublicacao": "1",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33036753",
+            "OrdemPublicacao": "3",
+            "IndicadorFax": "Não"
+          }
+        ]
+      },
+      "SiglaPartidoParlamentar": "PODEMOS",
+      "UfParlamentar": "ES"
+    },
+    "Mandato": {
+      "CodigoMandato": "547",
+      "UfParlamentar": "ES",
+      "PrimeiraLegislaturaDoMandato": {
+        "NumeroLegislatura": "56",
+        "DataInicio": "2019-02-01",
+        "DataFim": "2023-01-31"
+      },
+      "SegundaLegislaturaDoMandato": {
+        "NumeroLegislatura": "57",
+        "DataInicio": "2023-02-01",
+        "DataFim": "2027-01-31"
+      },
+      "DescricaoParticipacao": "Titular",
+      "Suplentes": {
+        "Suplente": [
+          {
+            "DescricaoParticipacao": "1º Suplente",
+            "CodigoParlamentar": "5944",
+            "NomeParlamentar": "Rosana Foerst"
+          },
+          {
+            "DescricaoParticipacao": "2º Suplente",
+            "CodigoParlamentar": "5945",
+            "NomeParlamentar": "Ronaldo Libardi"
+          }
+        ]
+      },
+      "Exercicios": {
+        "Exercicio": [
+          {
+            "CodigoExercicio": "2925",
+            "DataInicio": "2019-02-01"
+          }
+        ]
+      }
+    },
+    "UrlGlossario": "http://legis.senado.leg.br/dadosabertos/senador/"
+  },
+  {
+    "IdentificacaoParlamentar": {
+      "CodigoParlamentar": "1023",
+      "CodigoPublicoNaLegAtual": "828",
+      "NomeParlamentar": "Maria do Carmo Alves",
+      "NomeCompletoParlamentar": "Maria do Carmo do Nascimento Alves",
+      "SexoParlamentar": "Feminino",
+      "FormaTratamento": "Senadora ",
+      "UrlFotoParlamentar": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador1023.jpg",
+      "UrlPaginaParlamentar": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/1023",
+      "EmailParlamentar": "sen.mariadocarmoalves@senado.leg.br",
+      "Telefones": {
+        "Telefone": [
+          {
+            "NumeroTelefone": "33031306",
+            "OrdemPublicacao": "1",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33034055",
+            "OrdemPublicacao": "2",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33032878",
+            "OrdemPublicacao": "3",
+            "IndicadorFax": "Não"
+          }
+        ]
+      },
+      "SiglaPartidoParlamentar": "DEM",
+      "UfParlamentar": "SE"
+    },
+    "Mandato": {
+      "CodigoMandato": "517",
+      "UfParlamentar": "SE",
+      "PrimeiraLegislaturaDoMandato": {
+        "NumeroLegislatura": "55",
+        "DataInicio": "2015-02-01",
+        "DataFim": "2019-01-31"
+      },
+      "SegundaLegislaturaDoMandato": {
+        "NumeroLegislatura": "56",
+        "DataInicio": "2019-02-01",
+        "DataFim": "2023-01-31"
+      },
+      "DescricaoParticipacao": "Titular",
+      "Suplentes": {
+        "Suplente": [
+          {
+            "DescricaoParticipacao": "1º Suplente",
+            "CodigoParlamentar": "5635",
+            "NomeParlamentar": "Ricardo Franco"
+          },
+          {
+            "DescricaoParticipacao": "2º Suplente",
+            "CodigoParlamentar": "4786",
+            "NomeParlamentar": "Virginio de Carvalho"
+          }
+        ]
+      },
+      "Exercicios": {
+        "Exercicio": [
+          {
+            "CodigoExercicio": "2807",
+            "DataInicio": "2017-01-01"
+          },
+          {
+            "CodigoExercicio": "2795",
+            "DataInicio": "2016-08-22",
+            "DataFim": "2016-09-30",
+            "SiglaCausaAfastamento": "AFO",
+            "DescricaoCausaAfastamento": "Afastamento do exercício"
+          },
+          {
+            "CodigoExercicio": "2780",
+            "DataInicio": "2016-05-10",
+            "DataFim": "2016-05-13",
+            "SiglaCausaAfastamento": "AFO",
+            "DescricaoCausaAfastamento": "Afastamento do exercício",
+            "DataLeitura": "2016-05-10"
+          },
+          {
+            "CodigoExercicio": "2758",
+            "DataInicio": "2015-02-01",
+            "DataFim": "2015-11-10",
+            "SiglaCausaAfastamento": "AFO",
+            "DescricaoCausaAfastamento": "Afastamento do exercício"
+          }
+        ]
+      }
+    },
+    "UrlGlossario": "http://legis.senado.leg.br/dadosabertos/senador/"
+  },
+  {
+    "IdentificacaoParlamentar": {
+      "CodigoParlamentar": "6027",
+      "CodigoPublicoNaLegAtual": "881",
+      "NomeParlamentar": "Mecias de Jesus",
+      "NomeCompletoParlamentar": "Antônio Mecias Pereira de Jesus",
+      "SexoParlamentar": "Masculino",
+      "FormaTratamento": "Senador ",
+      "UrlFotoParlamentar": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador6027.jpg",
+      "UrlPaginaParlamentar": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/6027",
+      "EmailParlamentar": "sen.meciasdejesus@senado.leg.br",
+      "Telefones": {
+        "Telefone": [
+          {
+            "NumeroTelefone": "33035291",
+            "OrdemPublicacao": "1",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33035292",
+            "OrdemPublicacao": "2",
+            "IndicadorFax": "Não"
+          }
+        ]
+      },
+      "SiglaPartidoParlamentar": "REPUBLICANOS",
+      "UfParlamentar": "RR"
+    },
+    "Mandato": {
+      "CodigoMandato": "578",
+      "UfParlamentar": "RR",
+      "PrimeiraLegislaturaDoMandato": {
+        "NumeroLegislatura": "56",
+        "DataInicio": "2019-02-01",
+        "DataFim": "2023-01-31"
+      },
+      "SegundaLegislaturaDoMandato": {
+        "NumeroLegislatura": "57",
+        "DataInicio": "2023-02-01",
+        "DataFim": "2027-01-31"
+      },
+      "DescricaoParticipacao": "Titular",
+      "Suplentes": {
+        "Suplente": [
+          {
+            "DescricaoParticipacao": "1º Suplente",
+            "CodigoParlamentar": "6025",
+            "NomeParlamentar": "Enfermeira Roberta"
+          },
+          {
+            "DescricaoParticipacao": "2º Suplente",
+            "CodigoParlamentar": "6026",
+            "NomeParlamentar": "Afonso Parente"
+          }
+        ]
+      },
+      "Exercicios": {
+        "Exercicio": [
+          {
+            "CodigoExercicio": "2890",
+            "DataInicio": "2019-02-01"
+          }
+        ]
+      }
+    },
+    "UrlGlossario": "http://legis.senado.leg.br/dadosabertos/senador/"
+  },
+  {
+    "IdentificacaoParlamentar": {
+      "CodigoParlamentar": "5985",
+      "CodigoPublicoNaLegAtual": "858",
+      "NomeParlamentar": "Nelsinho Trad",
+      "NomeCompletoParlamentar": "Nelson Trad Filho",
+      "SexoParlamentar": "Masculino",
+      "FormaTratamento": "Senador ",
+      "UrlFotoParlamentar": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5985.jpg",
+      "UrlPaginaParlamentar": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5985",
+      "EmailParlamentar": "sen.nelsinhotrad@senado.leg.br",
+      "Telefones": {
+        "Telefone": [
+          {
+            "NumeroTelefone": "33036767",
+            "OrdemPublicacao": "1",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33036768",
+            "OrdemPublicacao": "2",
+            "IndicadorFax": "Não"
+          }
+        ]
+      },
+      "SiglaPartidoParlamentar": "PSD",
+      "UfParlamentar": "MS"
+    },
+    "Mandato": {
+      "CodigoMandato": "560",
+      "UfParlamentar": "MS",
+      "PrimeiraLegislaturaDoMandato": {
+        "NumeroLegislatura": "56",
+        "DataInicio": "2019-02-01",
+        "DataFim": "2023-01-31"
+      },
+      "SegundaLegislaturaDoMandato": {
+        "NumeroLegislatura": "57",
+        "DataInicio": "2023-02-01",
+        "DataFim": "2027-01-31"
+      },
+      "DescricaoParticipacao": "Titular",
+      "Suplentes": {
+        "Suplente": [
+          {
+            "DescricaoParticipacao": "1º Suplente",
+            "CodigoParlamentar": "5983",
+            "NomeParlamentar": "José Chagas"
+          },
+          {
+            "DescricaoParticipacao": "2º Suplente",
+            "CodigoParlamentar": "5984",
+            "NomeParlamentar": "Professora Bazé"
+          }
+        ]
+      },
+      "Exercicios": {
+        "Exercicio": [
+          {
+            "CodigoExercicio": "2927",
+            "DataInicio": "2019-02-01"
+          }
+        ]
+      }
+    },
+    "UrlGlossario": "http://legis.senado.leg.br/dadosabertos/senador/"
+  },
+  {
+    "IdentificacaoParlamentar": {
+      "CodigoParlamentar": "5525",
+      "CodigoPublicoNaLegAtual": "803",
+      "NomeParlamentar": "Omar Aziz",
+      "NomeCompletoParlamentar": "Omar José Abdel Aziz",
+      "SexoParlamentar": "Masculino",
+      "FormaTratamento": "Senador ",
+      "UrlFotoParlamentar": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5525.jpg",
+      "UrlPaginaParlamentar": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5525",
+      "EmailParlamentar": "sen.omaraziz@senado.leg.br",
+      "Telefones": {
+        "Telefone": [
+          {
+            "NumeroTelefone": "33036579",
+            "OrdemPublicacao": "1",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33036524",
+            "OrdemPublicacao": "2",
+            "IndicadorFax": "Sim "
+          }
+        ]
+      },
+      "SiglaPartidoParlamentar": "PSD",
+      "UfParlamentar": "AM"
+    },
+    "Mandato": {
+      "CodigoMandato": "493",
+      "UfParlamentar": "AM",
+      "PrimeiraLegislaturaDoMandato": {
+        "NumeroLegislatura": "55",
+        "DataInicio": "2015-02-01",
+        "DataFim": "2019-01-31"
+      },
+      "SegundaLegislaturaDoMandato": {
+        "NumeroLegislatura": "56",
+        "DataInicio": "2019-02-01",
+        "DataFim": "2023-01-31"
+      },
+      "DescricaoParticipacao": "Titular",
+      "Suplentes": {
+        "Suplente": [
+          {
+            "DescricaoParticipacao": "1º Suplente",
+            "CodigoParlamentar": "5565",
+            "NomeParlamentar": "Dr. Helder Cavalcante"
+          },
+          {
+            "DescricaoParticipacao": "2º Suplente",
+            "CodigoParlamentar": "5567",
+            "NomeParlamentar": "Luis Mitoso"
+          }
+        ]
+      },
+      "Exercicios": {
+        "Exercicio": [
+          {
+            "CodigoExercicio": "2741",
+            "DataInicio": "2015-02-01"
+          }
+        ]
+      }
+    },
+    "UrlGlossario": "http://legis.senado.leg.br/dadosabertos/senador/"
+  },
+  {
+    "IdentificacaoParlamentar": {
+      "CodigoParlamentar": "5924",
+      "CodigoPublicoNaLegAtual": "857",
+      "NomeParlamentar": "Oriovisto Guimarães",
+      "NomeCompletoParlamentar": "Oriovisto Guimaraes",
+      "SexoParlamentar": "Masculino",
+      "FormaTratamento": "Senador ",
+      "UrlFotoParlamentar": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5924.jpg",
+      "UrlPaginaParlamentar": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5924",
+      "EmailParlamentar": "sen.oriovistoguimaraes@senado.leg.br",
+      "Telefones": {
+        "Telefone": {
+          "NumeroTelefone": "33031635",
+          "OrdemPublicacao": "1",
+          "IndicadorFax": "Não"
+        }
+      },
+      "SiglaPartidoParlamentar": "PODEMOS",
+      "UfParlamentar": "PR"
+    },
+    "Mandato": {
+      "CodigoMandato": "541",
+      "UfParlamentar": "PR",
+      "PrimeiraLegislaturaDoMandato": {
+        "NumeroLegislatura": "56",
+        "DataInicio": "2019-02-01",
+        "DataFim": "2023-01-31"
+      },
+      "SegundaLegislaturaDoMandato": {
+        "NumeroLegislatura": "57",
+        "DataInicio": "2023-02-01",
+        "DataFim": "2027-01-31"
+      },
+      "DescricaoParticipacao": "Titular",
+      "Suplentes": {
+        "Suplente": [
+          {
+            "DescricaoParticipacao": "1º Suplente",
+            "CodigoParlamentar": "5921",
+            "NomeParlamentar": "Paulo Salamuni"
+          },
+          {
+            "DescricaoParticipacao": "2º Suplente",
+            "CodigoParlamentar": "5922",
+            "NomeParlamentar": "Plinio Destro"
+          }
+        ]
+      },
+      "Exercicios": {
+        "Exercicio": [
+          {
+            "CodigoExercicio": "2928",
+            "DataInicio": "2019-02-01"
+          }
+        ]
+      }
+    },
+    "UrlGlossario": "http://legis.senado.leg.br/dadosabertos/senador/"
+  },
+  {
+    "IdentificacaoParlamentar": {
+      "CodigoParlamentar": "5523",
+      "CodigoPublicoNaLegAtual": "831",
+      "NomeParlamentar": "Otto Alencar",
+      "NomeCompletoParlamentar": "Otto Roberto Mendonça de Alencar",
+      "SexoParlamentar": "Masculino",
+      "FormaTratamento": "Senador ",
+      "UrlFotoParlamentar": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5523.jpg",
+      "UrlPaginaParlamentar": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5523",
+      "EmailParlamentar": "sen.ottoalencar@senado.leg.br",
+      "Telefones": {
+        "Telefone": [
+          {
+            "NumeroTelefone": "33031464",
+            "OrdemPublicacao": "1",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33031467",
+            "OrdemPublicacao": "2",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33032862",
+            "OrdemPublicacao": "3",
+            "IndicadorFax": "Sim "
+          }
+        ]
+      },
+      "SiglaPartidoParlamentar": "PSD",
+      "UfParlamentar": "BA"
+    },
+    "Mandato": {
+      "CodigoMandato": "492",
+      "UfParlamentar": "BA",
+      "PrimeiraLegislaturaDoMandato": {
+        "NumeroLegislatura": "55",
+        "DataInicio": "2015-02-01",
+        "DataFim": "2019-01-31"
+      },
+      "SegundaLegislaturaDoMandato": {
+        "NumeroLegislatura": "56",
+        "DataInicio": "2019-02-01",
+        "DataFim": "2023-01-31"
+      },
+      "DescricaoParticipacao": "Titular",
+      "Suplentes": {
+        "Suplente": [
+          {
+            "DescricaoParticipacao": "1º Suplente",
+            "CodigoParlamentar": "5573",
+            "NomeParlamentar": "Abel Rebouças"
+          },
+          {
+            "DescricaoParticipacao": "2º Suplente",
+            "CodigoParlamentar": "5575",
+            "NomeParlamentar": "Marizete"
+          }
+        ]
+      },
+      "Exercicios": {
+        "Exercicio": [
+          {
+            "CodigoExercicio": "2742",
+            "DataInicio": "2015-02-01"
+          }
+        ]
+      }
+    },
+    "UrlGlossario": "http://legis.senado.leg.br/dadosabertos/senador/"
+  },
+  {
+    "IdentificacaoParlamentar": {
+      "CodigoParlamentar": "5927",
+      "CodigoPublicoNaLegAtual": "944",
+      "NomeParlamentar": "Paulo Albuquerque",
+      "NomeCompletoParlamentar": "Paulo José de Brito Silva Albuquerque",
+      "SexoParlamentar": "Masculino",
+      "FormaTratamento": "Senador ",
+      "UrlFotoParlamentar": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5927.jpg",
+      "UrlPaginaParlamentar": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5927",
+      "EmailParlamentar": "Sen.PauloAlbuquerque@senado.leg.br",
+      "Telefones": {
+        "Telefone": {
+          "NumeroTelefone": "33034851",
+          "OrdemPublicacao": "1",
+          "IndicadorFax": "Não"
+        }
+      },
+      "SiglaPartidoParlamentar": "PSD",
+      "UfParlamentar": "AP"
+    },
+    "Mandato": {
+      "CodigoMandato": "543",
+      "UfParlamentar": "AP",
+      "PrimeiraLegislaturaDoMandato": {
+        "NumeroLegislatura": "56",
+        "DataInicio": "2019-02-01",
+        "DataFim": "2023-01-31"
+      },
+      "SegundaLegislaturaDoMandato": {
+        "NumeroLegislatura": "57",
+        "DataInicio": "2023-02-01",
+        "DataFim": "2027-01-31"
+      },
+      "DescricaoParticipacao": "1º Suplente",
+      "Titular": {
+        "DescricaoParticipacao": "Titular",
+        "CodigoParlamentar": "5926",
+        "NomeParlamentar": "Lucas Barreto"
+      },
+      "Suplentes": {
+        "Suplente": [
+          {
+            "DescricaoParticipacao": "2º Suplente",
+            "CodigoParlamentar": "5928",
+            "NomeParlamentar": "Patricia Costa"
+          }
+        ]
+      },
+      "Exercicios": {
+        "Exercicio": [
+          {
+            "CodigoExercicio": "2951",
+            "DataInicio": "2019-12-17"
+          }
+        ]
+      }
+    },
+    "UrlGlossario": "http://legis.senado.leg.br/dadosabertos/senador/"
+  },
+  {
+    "IdentificacaoParlamentar": {
+      "CodigoParlamentar": "825",
+      "CodigoPublicoNaLegAtual": "859",
+      "NomeParlamentar": "Paulo Paim",
+      "NomeCompletoParlamentar": "Paulo Renato Paim",
+      "SexoParlamentar": "Masculino",
+      "FormaTratamento": "Senador ",
+      "UrlFotoParlamentar": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador825.jpg",
+      "UrlPaginaParlamentar": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/825",
+      "EmailParlamentar": "sen.paulopaim@senado.leg.br",
+      "Telefones": {
+        "Telefone": [
+          {
+            "NumeroTelefone": "33035232",
+            "OrdemPublicacao": "1",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33035231",
+            "OrdemPublicacao": "2",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33035230",
+            "OrdemPublicacao": "3",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33035235",
+            "OrdemPublicacao": "4",
+            "IndicadorFax": "Sim "
+          }
+        ]
+      },
+      "SiglaPartidoParlamentar": "PT",
+      "UfParlamentar": "RS"
+    },
+    "Mandato": {
+      "CodigoMandato": "523",
+      "UfParlamentar": "RS",
+      "PrimeiraLegislaturaDoMandato": {
+        "NumeroLegislatura": "56",
+        "DataInicio": "2019-02-01",
+        "DataFim": "2023-01-31"
+      },
+      "SegundaLegislaturaDoMandato": {
+        "NumeroLegislatura": "57",
+        "DataInicio": "2023-02-01",
+        "DataFim": "2027-01-31"
+      },
+      "DescricaoParticipacao": "Titular",
+      "Suplentes": {
+        "Suplente": [
+          {
+            "DescricaoParticipacao": "1º Suplente",
+            "CodigoParlamentar": "6017",
+            "NomeParlamentar": "Cleonice Back"
+          },
+          {
+            "DescricaoParticipacao": "2º Suplente",
+            "CodigoParlamentar": "6018",
+            "NomeParlamentar": "Reginete Bispo"
+          }
+        ]
+      },
+      "Exercicios": {
+        "Exercicio": [
+          {
+            "CodigoExercicio": "2929",
+            "DataInicio": "2019-02-01"
+          }
+        ]
+      }
+    },
+    "UrlGlossario": "http://legis.senado.leg.br/dadosabertos/senador/"
+  },
+  {
+    "IdentificacaoParlamentar": {
+      "CodigoParlamentar": "374",
+      "CodigoPublicoNaLegAtual": "809",
+      "NomeParlamentar": "Paulo Rocha",
+      "NomeCompletoParlamentar": "Paulo Roberto Galvão da Rocha",
+      "SexoParlamentar": "Masculino",
+      "FormaTratamento": "Senador ",
+      "UrlFotoParlamentar": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador374.jpg",
+      "UrlPaginaParlamentar": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/374",
+      "EmailParlamentar": "sen.paulorocha@senado.leg.br",
+      "Telefones": {
+        "Telefone": {
+          "NumeroTelefone": "33033800",
+          "OrdemPublicacao": "1",
+          "IndicadorFax": "Não"
+        }
+      },
+      "SiglaPartidoParlamentar": "PT",
+      "UfParlamentar": "PA"
+    },
+    "Mandato": {
+      "CodigoMandato": "507",
+      "UfParlamentar": "PA",
+      "PrimeiraLegislaturaDoMandato": {
+        "NumeroLegislatura": "55",
+        "DataInicio": "2015-02-01",
+        "DataFim": "2019-01-31"
+      },
+      "SegundaLegislaturaDoMandato": {
+        "NumeroLegislatura": "56",
+        "DataInicio": "2019-02-01",
+        "DataFim": "2023-01-31"
+      },
+      "DescricaoParticipacao": "Titular",
+      "Suplentes": {
+        "Suplente": [
+          {
+            "DescricaoParticipacao": "1º Suplente",
+            "CodigoParlamentar": "375",
+            "NomeParlamentar": "Valdir Ganzer"
+          },
+          {
+            "DescricaoParticipacao": "2º Suplente",
+            "CodigoParlamentar": "5599",
+            "NomeParlamentar": "Pastor Ibanes Taveira"
+          }
+        ]
+      },
+      "Exercicios": {
+        "Exercicio": [
+          {
+            "CodigoExercicio": "2743",
+            "DataInicio": "2015-02-01"
+          }
+        ]
+      }
+    },
+    "UrlGlossario": "http://legis.senado.leg.br/dadosabertos/senador/"
+  },
+  {
+    "IdentificacaoParlamentar": {
+      "CodigoParlamentar": "5502",
+      "CodigoPublicoNaLegAtual": "801",
+      "NomeParlamentar": "Plínio Valério",
+      "NomeCompletoParlamentar": "Francisco Plínio Valério Tomaz",
+      "SexoParlamentar": "Masculino",
+      "FormaTratamento": "Senador ",
+      "UrlFotoParlamentar": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5502.jpg",
+      "UrlPaginaParlamentar": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5502",
+      "EmailParlamentar": "sen.pliniovalerio@senado.leg.br",
+      "Telefones": {
+        "Telefone": [
+          {
+            "NumeroTelefone": "33032833",
+            "OrdemPublicacao": "1",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33032835",
+            "OrdemPublicacao": "2",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33032837",
+            "OrdemPublicacao": "3",
+            "IndicadorFax": "Não"
+          }
+        ]
+      },
+      "SiglaPartidoParlamentar": "PSDB",
+      "UfParlamentar": "AM"
+    },
+    "Mandato": {
+      "CodigoMandato": "573",
+      "UfParlamentar": "AM",
+      "PrimeiraLegislaturaDoMandato": {
+        "NumeroLegislatura": "56",
+        "DataInicio": "2019-02-01",
+        "DataFim": "2023-01-31"
+      },
+      "SegundaLegislaturaDoMandato": {
+        "NumeroLegislatura": "57",
+        "DataInicio": "2023-02-01",
+        "DataFim": "2027-01-31"
+      },
+      "DescricaoParticipacao": "Titular",
+      "Suplentes": {
+        "Suplente": [
+          {
+            "DescricaoParticipacao": "1º Suplente",
+            "CodigoParlamentar": "6013",
+            "NomeParlamentar": "Carlos Alberto"
+          },
+          {
+            "DescricaoParticipacao": "2º Suplente",
+            "CodigoParlamentar": "5931",
+            "NomeParlamentar": "Jacira Souza"
+          }
+        ]
+      },
+      "Exercicios": {
+        "Exercicio": [
+          {
+            "CodigoExercicio": "2906",
+            "DataInicio": "2019-02-01"
+          }
+        ]
+      }
+    },
+    "UrlGlossario": "http://legis.senado.leg.br/dadosabertos/senador/"
+  },
+  {
+    "IdentificacaoParlamentar": {
+      "CodigoParlamentar": "5971",
+      "CodigoPublicoNaLegAtual": "943",
+      "NomeParlamentar": "Prisco Bezerra",
+      "NomeCompletoParlamentar": "Prisco Rodrigues Bezerra",
+      "SexoParlamentar": "Masculino",
+      "FormaTratamento": "Senador ",
+      "UrlFotoParlamentar": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5971.jpg",
+      "UrlPaginaParlamentar": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5971",
+      "EmailParlamentar": "sen.priscobezerra@senado.leg.br",
+      "Telefones": {
+        "Telefone": [
+          {
+            "NumeroTelefone": "33036460",
+            "OrdemPublicacao": "1",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33036399",
+            "OrdemPublicacao": "2",
+            "IndicadorFax": "Não"
+          }
+        ]
+      },
+      "SiglaPartidoParlamentar": "PDT",
+      "UfParlamentar": "CE"
+    },
+    "Mandato": {
+      "CodigoMandato": "556",
+      "UfParlamentar": "CE",
+      "PrimeiraLegislaturaDoMandato": {
+        "NumeroLegislatura": "56",
+        "DataInicio": "2019-02-01",
+        "DataFim": "2023-01-31"
+      },
+      "SegundaLegislaturaDoMandato": {
+        "NumeroLegislatura": "57",
+        "DataInicio": "2023-02-01",
+        "DataFim": "2027-01-31"
+      },
+      "DescricaoParticipacao": "1º Suplente",
+      "Titular": {
+        "DescricaoParticipacao": "Titular",
+        "CodigoParlamentar": "5973",
+        "NomeParlamentar": "Cid Gomes"
+      },
+      "Suplentes": {
+        "Suplente": [
+          {
+            "DescricaoParticipacao": "2º Suplente",
+            "CodigoParlamentar": "5972",
+            "NomeParlamentar": "Julio Ventura"
+          }
+        ]
+      },
+      "Exercicios": {
+        "Exercicio": [
+          {
+            "CodigoExercicio": "2949",
+            "DataInicio": "2019-12-11"
+          }
+        ]
+      }
+    },
+    "UrlGlossario": "http://legis.senado.leg.br/dadosabertos/senador/"
+  },
+  {
+    "IdentificacaoParlamentar": {
+      "CodigoParlamentar": "5012",
+      "CodigoPublicoNaLegAtual": "827",
+      "NomeParlamentar": "Randolfe Rodrigues",
+      "NomeCompletoParlamentar": "Randolph Frederich Rodrigues Alves",
+      "SexoParlamentar": "Masculino",
+      "FormaTratamento": "Senador ",
+      "UrlFotoParlamentar": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5012.jpg",
+      "UrlPaginaParlamentar": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5012",
+      "EmailParlamentar": "sen.randolferodrigues@senado.leg.br",
+      "Telefones": {
+        "Telefone": [
+          {
+            "NumeroTelefone": "33036777",
+            "OrdemPublicacao": "1",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33036568",
+            "OrdemPublicacao": "2",
+            "IndicadorFax": "Não"
+          }
+        ]
+      },
+      "SiglaPartidoParlamentar": "REDE",
+      "UfParlamentar": "AP"
+    },
+    "Mandato": {
+      "CodigoMandato": "522",
+      "UfParlamentar": "AP",
+      "PrimeiraLegislaturaDoMandato": {
+        "NumeroLegislatura": "56",
+        "DataInicio": "2019-02-01",
+        "DataFim": "2023-01-31"
+      },
+      "SegundaLegislaturaDoMandato": {
+        "NumeroLegislatura": "57",
+        "DataInicio": "2023-02-01",
+        "DataFim": "2027-01-31"
+      },
+      "DescricaoParticipacao": "Titular",
+      "Suplentes": {
+        "Suplente": [
+          {
+            "DescricaoParticipacao": "1º Suplente",
+            "CodigoParlamentar": "5923",
+            "NomeParlamentar": "Alberto David"
+          },
+          {
+            "DescricaoParticipacao": "2º Suplente",
+            "CodigoParlamentar": "5925",
+            "NomeParlamentar": "Pastor Gaia"
+          }
+        ]
+      },
+      "Exercicios": {
+        "Exercicio": [
+          {
+            "CodigoExercicio": "2930",
+            "DataInicio": "2019-02-01"
+          }
+        ]
+      }
+    },
+    "UrlGlossario": "http://legis.senado.leg.br/dadosabertos/senador/"
+  },
+  {
+    "IdentificacaoParlamentar": {
+      "CodigoParlamentar": "5236",
+      "CodigoPublicoNaLegAtual": "852",
+      "NomeParlamentar": "Reguffe",
+      "NomeCompletoParlamentar": "José Antônio Machado Reguffe",
+      "SexoParlamentar": "Masculino",
+      "FormaTratamento": "Senador ",
+      "UrlFotoParlamentar": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5236.jpg",
+      "UrlPaginaParlamentar": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5236",
+      "EmailParlamentar": "sen.reguffe@senado.leg.br",
+      "Telefones": {
+        "Telefone": {
+          "NumeroTelefone": "33036355",
+          "OrdemPublicacao": "1",
+          "IndicadorFax": "Não"
+        }
+      },
+      "SiglaPartidoParlamentar": "PODEMOS",
+      "UfParlamentar": "DF"
+    },
+    "Mandato": {
+      "CodigoMandato": "502",
+      "UfParlamentar": "DF",
+      "PrimeiraLegislaturaDoMandato": {
+        "NumeroLegislatura": "55",
+        "DataInicio": "2015-02-01",
+        "DataFim": "2019-01-31"
+      },
+      "SegundaLegislaturaDoMandato": {
+        "NumeroLegislatura": "56",
+        "DataInicio": "2019-02-01",
+        "DataFim": "2023-01-31"
+      },
+      "DescricaoParticipacao": "Titular",
+      "Suplentes": {
+        "Suplente": [
+          {
+            "DescricaoParticipacao": "1º Suplente",
+            "CodigoParlamentar": "5579",
+            "NomeParlamentar": "José Carlos Vasconcellos"
+          },
+          {
+            "DescricaoParticipacao": "2º Suplente",
+            "CodigoParlamentar": "5581",
+            "NomeParlamentar": "Fadi Faraj"
+          }
+        ]
+      },
+      "Exercicios": {
+        "Exercicio": [
+          {
+            "CodigoExercicio": "2744",
+            "DataInicio": "2015-02-01"
+          }
+        ]
+      }
+    },
+    "UrlGlossario": "http://legis.senado.leg.br/dadosabertos/senador/"
+  },
+  {
+    "IdentificacaoParlamentar": {
+      "CodigoParlamentar": "70",
+      "CodigoPublicoNaLegAtual": "875",
+      "NomeParlamentar": "Renan Calheiros",
+      "NomeCompletoParlamentar": "José Renan Vasconcelos Calheiros",
+      "SexoParlamentar": "Masculino",
+      "FormaTratamento": "Senador ",
+      "UrlFotoParlamentar": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador70.jpg",
+      "UrlPaginaParlamentar": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/70",
+      "EmailParlamentar": "sen.renancalheiros@senado.leg.br",
+      "Telefones": {
+        "Telefone": {
+          "NumeroTelefone": "33032261",
+          "OrdemPublicacao": "1",
+          "IndicadorFax": "Não"
+        }
+      },
+      "SiglaPartidoParlamentar": "MDB",
+      "UfParlamentar": "AL"
+    },
+    "Mandato": {
+      "CodigoMandato": "527",
+      "UfParlamentar": "AL",
+      "PrimeiraLegislaturaDoMandato": {
+        "NumeroLegislatura": "56",
+        "DataInicio": "2019-02-01",
+        "DataFim": "2023-01-31"
+      },
+      "SegundaLegislaturaDoMandato": {
+        "NumeroLegislatura": "57",
+        "DataInicio": "2023-02-01",
+        "DataFim": "2027-01-31"
+      },
+      "DescricaoParticipacao": "Titular",
+      "Suplentes": {
+        "Suplente": [
+          {
+            "DescricaoParticipacao": "1º Suplente",
+            "CodigoParlamentar": "5913",
+            "NomeParlamentar": "Rafael Tenorio"
+          },
+          {
+            "DescricaoParticipacao": "2º Suplente",
+            "CodigoParlamentar": "5916",
+            "NomeParlamentar": "Silvania Barbosa"
+          }
+        ]
+      },
+      "Exercicios": {
+        "Exercicio": [
+          {
+            "CodigoExercicio": "2917",
+            "DataInicio": "2019-02-01"
+          }
+        ]
+      }
+    },
+    "UrlGlossario": "http://legis.senado.leg.br/dadosabertos/senador/"
+  },
+  {
+    "IdentificacaoParlamentar": {
+      "CodigoParlamentar": "677",
+      "CodigoPublicoNaLegAtual": "807",
+      "NomeParlamentar": "Roberto Rocha",
+      "NomeCompletoParlamentar": "Roberto Coelho Rocha",
+      "SexoParlamentar": "Masculino",
+      "FormaTratamento": "Senador ",
+      "UrlFotoParlamentar": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador677.jpg",
+      "UrlPaginaParlamentar": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/677",
+      "EmailParlamentar": "sen.robertorocha@senado.leg.br",
+      "Telefones": {
+        "Telefone": [
+          {
+            "NumeroTelefone": "33031437",
+            "OrdemPublicacao": "1",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33031506",
+            "OrdemPublicacao": "2",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33031438",
+            "OrdemPublicacao": "3",
+            "IndicadorFax": "Sim "
+          }
+        ]
+      },
+      "SiglaPartidoParlamentar": "PSDB",
+      "UfParlamentar": "MA"
+    },
+    "Mandato": {
+      "CodigoMandato": "505",
+      "UfParlamentar": "MA",
+      "PrimeiraLegislaturaDoMandato": {
+        "NumeroLegislatura": "55",
+        "DataInicio": "2015-02-01",
+        "DataFim": "2019-01-31"
+      },
+      "SegundaLegislaturaDoMandato": {
+        "NumeroLegislatura": "56",
+        "DataInicio": "2019-02-01",
+        "DataFim": "2023-01-31"
+      },
+      "DescricaoParticipacao": "Titular",
+      "Suplentes": {
+        "Suplente": [
+          {
+            "DescricaoParticipacao": "1º Suplente",
+            "CodigoParlamentar": "4606",
+            "NomeParlamentar": "Pinto Itamaraty"
+          },
+          {
+            "DescricaoParticipacao": "2º Suplente",
+            "CodigoParlamentar": "5589",
+            "NomeParlamentar": "Paulo Matos"
+          }
+        ]
+      },
+      "Exercicios": {
+        "Exercicio": [
+          {
+            "CodigoExercicio": "2812",
+            "DataInicio": "2017-01-27"
+          },
+          {
+            "CodigoExercicio": "2745",
+            "DataInicio": "2015-02-01",
+            "DataFim": "2016-09-25",
+            "SiglaCausaAfastamento": "LP ",
+            "DescricaoCausaAfastamento": "Licença Particular",
+            "DataLeitura": "2016-10-04"
+          }
+        ]
+      }
+    },
+    "UrlGlossario": "http://legis.senado.leg.br/dadosabertos/senador/"
+  },
+  {
+    "IdentificacaoParlamentar": {
+      "CodigoParlamentar": "5905",
+      "CodigoPublicoNaLegAtual": "874",
+      "NomeParlamentar": "Rodrigo Cunha",
+      "NomeCompletoParlamentar": "Rodrigo Santos Cunha",
+      "SexoParlamentar": "Masculino",
+      "FormaTratamento": "Senador ",
+      "UrlFotoParlamentar": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5905.jpg",
+      "UrlPaginaParlamentar": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5905",
+      "EmailParlamentar": "sen.rodrigocunha@senado.leg.br",
+      "Telefones": {
+        "Telefone": {
+          "NumeroTelefone": "33036083",
+          "OrdemPublicacao": "1",
+          "IndicadorFax": "Não"
+        }
+      },
+      "SiglaPartidoParlamentar": "PSDB",
+      "UfParlamentar": "AL"
+    },
+    "Mandato": {
+      "CodigoMandato": "537",
+      "UfParlamentar": "AL",
+      "PrimeiraLegislaturaDoMandato": {
+        "NumeroLegislatura": "56",
+        "DataInicio": "2019-02-01",
+        "DataFim": "2023-01-31"
+      },
+      "SegundaLegislaturaDoMandato": {
+        "NumeroLegislatura": "57",
+        "DataInicio": "2023-02-01",
+        "DataFim": "2027-01-31"
+      },
+      "DescricaoParticipacao": "Titular",
+      "Suplentes": {
+        "Suplente": [
+          {
+            "DescricaoParticipacao": "1º Suplente",
+            "CodigoParlamentar": "5906",
+            "NomeParlamentar": "Eudócia Caldas"
+          },
+          {
+            "DescricaoParticipacao": "2º Suplente",
+            "CodigoParlamentar": "5907",
+            "NomeParlamentar": "Henrique Arruda"
+          }
+        ]
+      },
+      "Exercicios": {
+        "Exercicio": [
+          {
+            "CodigoExercicio": "2932",
+            "DataInicio": "2019-02-01"
+          }
+        ]
+      }
+    },
+    "UrlGlossario": "http://legis.senado.leg.br/dadosabertos/senador/"
+  },
+  {
+    "IdentificacaoParlamentar": {
+      "CodigoParlamentar": "5732",
+      "CodigoPublicoNaLegAtual": "844",
+      "NomeParlamentar": "Rodrigo Pacheco",
+      "NomeCompletoParlamentar": "Rodrigo Otavio Soares Pacheco",
+      "SexoParlamentar": "Masculino",
+      "FormaTratamento": "Senador ",
+      "UrlFotoParlamentar": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5732.jpg",
+      "UrlPaginaParlamentar": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5732",
+      "EmailParlamentar": "sen.rodrigopacheco@senado.leg.br",
+      "Telefones": {
+        "Telefone": [
+          {
+            "NumeroTelefone": "33032794",
+            "OrdemPublicacao": "1",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33032795",
+            "OrdemPublicacao": "2",
+            "IndicadorFax": "Não"
+          }
+        ]
+      },
+      "SiglaPartidoParlamentar": "DEM",
+      "UfParlamentar": "MG"
+    },
+    "Mandato": {
+      "CodigoMandato": "562",
+      "UfParlamentar": "MG",
+      "PrimeiraLegislaturaDoMandato": {
+        "NumeroLegislatura": "56",
+        "DataInicio": "2019-02-01",
+        "DataFim": "2023-01-31"
+      },
+      "SegundaLegislaturaDoMandato": {
+        "NumeroLegislatura": "57",
+        "DataInicio": "2023-02-01",
+        "DataFim": "2027-01-31"
+      },
+      "DescricaoParticipacao": "Titular",
+      "Suplentes": {
+        "Suplente": [
+          {
+            "DescricaoParticipacao": "1º Suplente",
+            "CodigoParlamentar": "5257",
+            "NomeParlamentar": "Renzo Braz"
+          },
+          {
+            "DescricaoParticipacao": "2º Suplente",
+            "CodigoParlamentar": "5989",
+            "NomeParlamentar": "Ana Maria"
+          }
+        ]
+      },
+      "Exercicios": {
+        "Exercicio": [
+          {
+            "CodigoExercicio": "2931",
+            "DataInicio": "2019-02-01"
+          }
+        ]
+      }
+    },
+    "UrlGlossario": "http://legis.senado.leg.br/dadosabertos/senador/"
+  },
+  {
+    "IdentificacaoParlamentar": {
+      "CodigoParlamentar": "5352",
+      "CodigoPublicoNaLegAtual": "830",
+      "NomeParlamentar": "Rogério Carvalho",
+      "NomeCompletoParlamentar": "Rogério Carvalho Santos",
+      "SexoParlamentar": "Masculino",
+      "FormaTratamento": "Senador ",
+      "UrlFotoParlamentar": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5352.jpg",
+      "UrlPaginaParlamentar": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5352",
+      "EmailParlamentar": "sen.rogeriocarvalho@senado.leg.br",
+      "Telefones": {
+        "Telefone": [
+          {
+            "NumeroTelefone": "33032201",
+            "OrdemPublicacao": "1",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33032203",
+            "OrdemPublicacao": "3",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33032204",
+            "OrdemPublicacao": "4",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33031786",
+            "OrdemPublicacao": "5",
+            "IndicadorFax": "Não"
+          }
+        ]
+      },
+      "SiglaPartidoParlamentar": "PT",
+      "UfParlamentar": "SE"
+    },
+    "Mandato": {
+      "CodigoMandato": "579",
+      "UfParlamentar": "SE",
+      "PrimeiraLegislaturaDoMandato": {
+        "NumeroLegislatura": "56",
+        "DataInicio": "2019-02-01",
+        "DataFim": "2023-01-31"
+      },
+      "SegundaLegislaturaDoMandato": {
+        "NumeroLegislatura": "57",
+        "DataInicio": "2023-02-01",
+        "DataFim": "2027-01-31"
+      },
+      "DescricaoParticipacao": "Titular",
+      "Suplentes": {
+        "Suplente": [
+          {
+            "DescricaoParticipacao": "1º Suplente",
+            "CodigoParlamentar": "5993",
+            "NomeParlamentar": "Jorge Mitidieri"
+          },
+          {
+            "DescricaoParticipacao": "2º Suplente",
+            "CodigoParlamentar": "5994",
+            "NomeParlamentar": "Maria da Taiçoca"
+          }
+        ]
+      },
+      "Exercicios": {
+        "Exercicio": [
+          {
+            "CodigoExercicio": "2933",
+            "DataInicio": "2019-02-01"
+          }
+        ]
+      }
+    },
+    "UrlGlossario": "http://legis.senado.leg.br/dadosabertos/senador/"
+  },
+  {
+    "IdentificacaoParlamentar": {
+      "CodigoParlamentar": "5322",
+      "CodigoPublicoNaLegAtual": "840",
+      "NomeParlamentar": "Romário",
+      "NomeCompletoParlamentar": "Romario de Souza Faria",
+      "SexoParlamentar": "Masculino",
+      "FormaTratamento": "Senador ",
+      "UrlFotoParlamentar": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5322.jpg",
+      "UrlPaginaParlamentar": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5322",
+      "EmailParlamentar": "sen.romario@senado.leg.br",
+      "Telefones": {
+        "Telefone": [
+          {
+            "NumeroTelefone": "33036519",
+            "OrdemPublicacao": "1",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33036517",
+            "OrdemPublicacao": "2",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33036520",
+            "OrdemPublicacao": "3",
+            "IndicadorFax": "Sim "
+          }
+        ]
+      },
+      "SiglaPartidoParlamentar": "PODEMOS",
+      "UfParlamentar": "RJ"
+    },
+    "Mandato": {
+      "CodigoMandato": "509",
+      "UfParlamentar": "RJ",
+      "PrimeiraLegislaturaDoMandato": {
+        "NumeroLegislatura": "55",
+        "DataInicio": "2015-02-01",
+        "DataFim": "2019-01-31"
+      },
+      "SegundaLegislaturaDoMandato": {
+        "NumeroLegislatura": "56",
+        "DataInicio": "2019-02-01",
+        "DataFim": "2023-01-31"
+      },
+      "DescricaoParticipacao": "Titular",
+      "Suplentes": {
+        "Suplente": [
+          {
+            "DescricaoParticipacao": "1º Suplente",
+            "CodigoParlamentar": "5613",
+            "NomeParlamentar": "João Batista Lemos"
+          },
+          {
+            "DescricaoParticipacao": "2º Suplente",
+            "CodigoParlamentar": "791",
+            "NomeParlamentar": "Vivaldo Barbosa"
+          }
+        ]
+      },
+      "Exercicios": {
+        "Exercicio": [
+          {
+            "CodigoExercicio": "2746",
+            "DataInicio": "2015-02-01"
+          }
+        ]
+      }
+    },
+    "UrlGlossario": "http://legis.senado.leg.br/dadosabertos/senador/"
+  },
+  {
+    "IdentificacaoParlamentar": {
+      "CodigoParlamentar": "5527",
+      "CodigoPublicoNaLegAtual": "939",
+      "NomeParlamentar": "Simone Tebet",
+      "NomeCompletoParlamentar": "Simone Nassar Tebet",
+      "SexoParlamentar": "Feminino",
+      "FormaTratamento": "Senadora ",
+      "UrlFotoParlamentar": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5527.jpg",
+      "UrlPaginaParlamentar": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5527",
+      "EmailParlamentar": "sen.simonetebet@senado.leg.br",
+      "Telefones": {
+        "Telefone": [
+          {
+            "NumeroTelefone": "33031128",
+            "OrdemPublicacao": "1",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33031920",
+            "OrdemPublicacao": "2",
+            "IndicadorFax": "Sim "
+          }
+        ]
+      },
+      "SiglaPartidoParlamentar": "MDB",
+      "UfParlamentar": "MS"
+    },
+    "Mandato": {
+      "CodigoMandato": "494",
+      "UfParlamentar": "MS",
+      "PrimeiraLegislaturaDoMandato": {
+        "NumeroLegislatura": "55",
+        "DataInicio": "2015-02-01",
+        "DataFim": "2019-01-31"
+      },
+      "SegundaLegislaturaDoMandato": {
+        "NumeroLegislatura": "56",
+        "DataInicio": "2019-02-01",
+        "DataFim": "2023-01-31"
+      },
+      "DescricaoParticipacao": "Titular",
+      "Suplentes": {
+        "Suplente": [
+          {
+            "DescricaoParticipacao": "1º Suplente",
+            "CodigoParlamentar": "5593",
+            "NomeParlamentar": "Celso Dal Lago Rodrigues"
+          },
+          {
+            "DescricaoParticipacao": "2º Suplente",
+            "CodigoParlamentar": "5595",
+            "NomeParlamentar": "Moacir Kohl"
+          }
+        ]
+      },
+      "Exercicios": {
+        "Exercicio": [
+          {
+            "CodigoExercicio": "2750",
+            "DataInicio": "2015-02-01"
+          }
+        ]
+      }
+    },
+    "UrlGlossario": "http://legis.senado.leg.br/dadosabertos/senador/"
+  },
+  {
+    "IdentificacaoParlamentar": {
+      "CodigoParlamentar": "5988",
+      "CodigoPublicoNaLegAtual": "854",
+      "NomeParlamentar": "Soraya Thronicke",
+      "NomeCompletoParlamentar": "Soraya Vieira Thronicke",
+      "SexoParlamentar": "Feminino",
+      "FormaTratamento": "Senadora ",
+      "UrlFotoParlamentar": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5988.jpg",
+      "UrlPaginaParlamentar": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5988",
+      "EmailParlamentar": "sen.sorayathronicke@senado.leg.br",
+      "Telefones": {
+        "Telefone": {
+          "NumeroTelefone": "33031775",
+          "OrdemPublicacao": "1",
+          "IndicadorFax": "Não"
+        }
+      },
+      "SiglaPartidoParlamentar": "PSL",
+      "UfParlamentar": "MS"
+    },
+    "Mandato": {
+      "CodigoMandato": "561",
+      "UfParlamentar": "MS",
+      "PrimeiraLegislaturaDoMandato": {
+        "NumeroLegislatura": "56",
+        "DataInicio": "2019-02-01",
+        "DataFim": "2023-01-31"
+      },
+      "SegundaLegislaturaDoMandato": {
+        "NumeroLegislatura": "57",
+        "DataInicio": "2023-02-01",
+        "DataFim": "2027-01-31"
+      },
+      "DescricaoParticipacao": "Titular",
+      "Suplentes": {
+        "Suplente": [
+          {
+            "DescricaoParticipacao": "1º Suplente",
+            "CodigoParlamentar": "5986",
+            "NomeParlamentar": "Rodolfo Nogueira"
+          },
+          {
+            "DescricaoParticipacao": "2º Suplente",
+            "CodigoParlamentar": "5987",
+            "NomeParlamentar": "Danny Fabricio"
+          }
+        ]
+      },
+      "Exercicios": {
+        "Exercicio": [
+          {
+            "CodigoExercicio": "2937",
+            "DataInicio": "2019-02-01"
+          }
+        ]
+      }
+    },
+    "UrlGlossario": "http://legis.senado.leg.br/dadosabertos/senador/"
+  },
+  {
+    "IdentificacaoParlamentar": {
+      "CodigoParlamentar": "5959",
+      "CodigoPublicoNaLegAtual": "817",
+      "NomeParlamentar": "Styvenson Valentim",
+      "NomeCompletoParlamentar": "Eann Styvenson Valentim Mendes",
+      "SexoParlamentar": "Masculino",
+      "FormaTratamento": "Senador ",
+      "UrlFotoParlamentar": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5959.jpg",
+      "UrlPaginaParlamentar": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5959",
+      "EmailParlamentar": "sen.styvensonvalentim@senado.leg.br",
+      "Telefones": {
+        "Telefone": [
+          {
+            "NumeroTelefone": "33031148",
+            "OrdemPublicacao": "2",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33036554",
+            "OrdemPublicacao": "3",
+            "IndicadorFax": "Sim "
+          }
+        ]
+      },
+      "SiglaPartidoParlamentar": "PODEMOS",
+      "UfParlamentar": "RN"
+    },
+    "Mandato": {
+      "CodigoMandato": "550",
+      "UfParlamentar": "RN",
+      "PrimeiraLegislaturaDoMandato": {
+        "NumeroLegislatura": "56",
+        "DataInicio": "2019-02-01",
+        "DataFim": "2023-01-31"
+      },
+      "SegundaLegislaturaDoMandato": {
+        "NumeroLegislatura": "57",
+        "DataInicio": "2023-02-01",
+        "DataFim": "2027-01-31"
+      },
+      "DescricaoParticipacao": "Titular",
+      "Suplentes": {
+        "Suplente": [
+          {
+            "DescricaoParticipacao": "1º Suplente",
+            "CodigoParlamentar": "5962",
+            "NomeParlamentar": "Alisson Taveira"
+          },
+          {
+            "DescricaoParticipacao": "2º Suplente",
+            "CodigoParlamentar": "5963",
+            "NomeParlamentar": "Coronel Margarida"
+          }
+        ]
+      },
+      "Exercicios": {
+        "Exercicio": [
+          {
+            "CodigoExercicio": "2899",
+            "DataInicio": "2019-02-01"
+          }
+        ]
+      }
+    },
+    "UrlGlossario": "http://legis.senado.leg.br/dadosabertos/senador/"
+  },
+  {
+    "IdentificacaoParlamentar": {
+      "CodigoParlamentar": "4560",
+      "CodigoPublicoNaLegAtual": "850",
+      "NomeParlamentar": "Sérgio Petecão",
+      "NomeCompletoParlamentar": "Sérgio de Oliveira Cunha",
+      "SexoParlamentar": "Masculino",
+      "FormaTratamento": "Senador ",
+      "UrlFotoParlamentar": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador4560.jpg",
+      "UrlPaginaParlamentar": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/4560",
+      "EmailParlamentar": "sergio.petecao@senador.leg.br",
+      "Telefones": {
+        "Telefone": [
+          {
+            "NumeroTelefone": "33036708",
+            "OrdemPublicacao": "1",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33036709",
+            "OrdemPublicacao": "2",
+            "IndicadorFax": "Não"
+          }
+        ]
+      },
+      "SiglaPartidoParlamentar": "PSD",
+      "UfParlamentar": "AC"
+    },
+    "Mandato": {
+      "CodigoMandato": "520",
+      "UfParlamentar": "AC",
+      "PrimeiraLegislaturaDoMandato": {
+        "NumeroLegislatura": "56",
+        "DataInicio": "2019-02-01",
+        "DataFim": "2023-01-31"
+      },
+      "SegundaLegislaturaDoMandato": {
+        "NumeroLegislatura": "57",
+        "DataInicio": "2023-02-01",
+        "DataFim": "2027-01-31"
+      },
+      "DescricaoParticipacao": "Titular",
+      "Suplentes": {
+        "Suplente": [
+          {
+            "DescricaoParticipacao": "1º Suplente",
+            "CodigoParlamentar": "5908",
+            "NomeParlamentar": "Maria das Vitórias"
+          },
+          {
+            "DescricaoParticipacao": "2º Suplente",
+            "CodigoParlamentar": "5909",
+            "NomeParlamentar": "Maria Alice"
+          }
+        ]
+      },
+      "Exercicios": {
+        "Exercicio": [
+          {
+            "CodigoExercicio": "2935",
+            "DataInicio": "2019-02-01"
+          }
+        ]
+      }
+    },
+    "UrlGlossario": "http://legis.senado.leg.br/dadosabertos/senador/"
+  },
+  {
+    "IdentificacaoParlamentar": {
+      "CodigoParlamentar": "3396",
+      "CodigoPublicoNaLegAtual": "812",
+      "NomeParlamentar": "Tasso Jereissati",
+      "NomeCompletoParlamentar": "Tasso Ribeiro Jereissati",
+      "SexoParlamentar": "Masculino",
+      "FormaTratamento": "Senador ",
+      "UrlFotoParlamentar": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador3396.jpg",
+      "UrlPaginaParlamentar": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/3396",
+      "EmailParlamentar": "sen.tassojereissati@senado.leg.br",
+      "Telefones": {
+        "Telefone": [
+          {
+            "NumeroTelefone": "33034502",
+            "OrdemPublicacao": "1",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33034503",
+            "OrdemPublicacao": "2",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33034573",
+            "OrdemPublicacao": "3",
+            "IndicadorFax": "Sim "
+          }
+        ]
+      },
+      "SiglaPartidoParlamentar": "PSDB",
+      "UfParlamentar": "CE"
+    },
+    "Mandato": {
+      "CodigoMandato": "512",
+      "UfParlamentar": "CE",
+      "PrimeiraLegislaturaDoMandato": {
+        "NumeroLegislatura": "55",
+        "DataInicio": "2015-02-01",
+        "DataFim": "2019-01-31"
+      },
+      "SegundaLegislaturaDoMandato": {
+        "NumeroLegislatura": "56",
+        "DataInicio": "2019-02-01",
+        "DataFim": "2023-01-31"
+      },
+      "DescricaoParticipacao": "Titular",
+      "Suplentes": {
+        "Suplente": [
+          {
+            "DescricaoParticipacao": "1º Suplente",
+            "CodigoParlamentar": "611",
+            "NomeParlamentar": "Chiquinho Feitosa"
+          },
+          {
+            "DescricaoParticipacao": "2º Suplente",
+            "CodigoParlamentar": "5577",
+            "NomeParlamentar": "Fernando Façanha"
+          }
+        ]
+      },
+      "Exercicios": {
+        "Exercicio": [
+          {
+            "CodigoExercicio": "2751",
+            "DataInicio": "2015-02-01"
+          }
+        ]
+      }
+    },
+    "UrlGlossario": "http://legis.senado.leg.br/dadosabertos/senador/"
+  },
+  {
+    "IdentificacaoParlamentar": {
+      "CodigoParlamentar": "5535",
+      "CodigoPublicoNaLegAtual": "814",
+      "NomeParlamentar": "Telmário Mota",
+      "NomeCompletoParlamentar": "Telmário Mota de Oliveira",
+      "SexoParlamentar": "Masculino",
+      "FormaTratamento": "Senador ",
+      "UrlFotoParlamentar": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5535.jpg",
+      "UrlPaginaParlamentar": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5535",
+      "EmailParlamentar": "sen.telmariomota@senado.leg.br",
+      "Telefones": {
+        "Telefone": {
+          "NumeroTelefone": "33036315",
+          "OrdemPublicacao": "1",
+          "IndicadorFax": "Não"
+        }
+      },
+      "SiglaPartidoParlamentar": "PROS",
+      "UfParlamentar": "RR"
+    },
+    "Mandato": {
+      "CodigoMandato": "498",
+      "UfParlamentar": "RR",
+      "PrimeiraLegislaturaDoMandato": {
+        "NumeroLegislatura": "55",
+        "DataInicio": "2015-02-01",
+        "DataFim": "2019-01-31"
+      },
+      "SegundaLegislaturaDoMandato": {
+        "NumeroLegislatura": "56",
+        "DataInicio": "2019-02-01",
+        "DataFim": "2023-01-31"
+      },
+      "DescricaoParticipacao": "Titular",
+      "Suplentes": {
+        "Suplente": [
+          {
+            "DescricaoParticipacao": "1º Suplente",
+            "CodigoParlamentar": "5619",
+            "NomeParlamentar": "Thieres Pinto"
+          },
+          {
+            "DescricaoParticipacao": "2º Suplente",
+            "CodigoParlamentar": "5621",
+            "NomeParlamentar": "Rudson Leite"
+          }
+        ]
+      },
+      "Exercicios": {
+        "Exercicio": [
+          {
+            "CodigoExercicio": "2861",
+            "DataInicio": "2018-10-04"
+          },
+          {
+            "CodigoExercicio": "2828",
+            "DataInicio": "2017-04-14",
+            "DataFim": "2018-05-29",
+            "SiglaCausaAfastamento": "LSP",
+            "DescricaoCausaAfastamento": "Licença Saúde-Particular"
+          },
+          {
+            "CodigoExercicio": "2752",
+            "DataInicio": "2015-02-01",
+            "DataFim": "2016-12-14",
+            "SiglaCausaAfastamento": "LSP",
+            "DescricaoCausaAfastamento": "Licença Saúde-Particular"
+          }
+        ]
+      }
+    },
+    "UrlGlossario": "http://legis.senado.leg.br/dadosabertos/senador/"
+  },
+  {
+    "IdentificacaoParlamentar": {
+      "CodigoParlamentar": "5899",
+      "CodigoPublicoNaLegAtual": "864",
+      "NomeParlamentar": "Vanderlan Cardoso",
+      "NomeCompletoParlamentar": "Vanderlan Vieira Cardoso",
+      "SexoParlamentar": "Masculino",
+      "FormaTratamento": "Senador ",
+      "UrlFotoParlamentar": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5899.jpg",
+      "UrlPaginaParlamentar": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5899",
+      "EmailParlamentar": "sen.vanderlancardoso@senado.leg.br",
+      "Telefones": {
+        "Telefone": [
+          {
+            "NumeroTelefone": "33032092",
+            "OrdemPublicacao": "1",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33032099",
+            "OrdemPublicacao": "4",
+            "IndicadorFax": "Não"
+          }
+        ]
+      },
+      "SiglaPartidoParlamentar": "PP",
+      "UfParlamentar": "GO"
+    },
+    "Mandato": {
+      "CodigoMandato": "538",
+      "UfParlamentar": "GO",
+      "PrimeiraLegislaturaDoMandato": {
+        "NumeroLegislatura": "56",
+        "DataInicio": "2019-02-01",
+        "DataFim": "2023-01-31"
+      },
+      "SegundaLegislaturaDoMandato": {
+        "NumeroLegislatura": "57",
+        "DataInicio": "2023-02-01",
+        "DataFim": "2027-01-31"
+      },
+      "DescricaoParticipacao": "Titular",
+      "Suplentes": {
+        "Suplente": [
+          {
+            "DescricaoParticipacao": "1º Suplente",
+            "CodigoParlamentar": "453",
+            "NomeParlamentar": "Pedro Chaves"
+          },
+          {
+            "DescricaoParticipacao": "2º Suplente",
+            "CodigoParlamentar": "5912",
+            "NomeParlamentar": "Jader Melo"
+          }
+        ]
+      },
+      "Exercicios": {
+        "Exercicio": [
+          {
+            "CodigoExercicio": "2938",
+            "DataInicio": "2019-02-01"
+          }
+        ]
+      }
+    },
+    "UrlGlossario": "http://legis.senado.leg.br/dadosabertos/senador/"
+  },
+  {
+    "IdentificacaoParlamentar": {
+      "CodigoParlamentar": "5748",
+      "CodigoPublicoNaLegAtual": "821",
+      "NomeParlamentar": "Veneziano Vital do Rêgo",
+      "NomeCompletoParlamentar": "Veneziano Vital do Rêgo Segundo Neto",
+      "SexoParlamentar": "Masculino",
+      "FormaTratamento": "Senador ",
+      "UrlFotoParlamentar": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5748.jpg",
+      "UrlPaginaParlamentar": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5748",
+      "EmailParlamentar": "sen.venezianovitaldorego@senado.leg.br",
+      "Telefones": {
+        "Telefone": [
+          {
+            "NumeroTelefone": "33032252",
+            "OrdemPublicacao": "1",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33032481",
+            "OrdemPublicacao": "3",
+            "IndicadorFax": "Não"
+          }
+        ]
+      },
+      "SiglaPartidoParlamentar": "PSB",
+      "UfParlamentar": "PB"
+    },
+    "Mandato": {
+      "CodigoMandato": "564",
+      "UfParlamentar": "PB",
+      "PrimeiraLegislaturaDoMandato": {
+        "NumeroLegislatura": "56",
+        "DataInicio": "2019-02-01",
+        "DataFim": "2023-01-31"
+      },
+      "SegundaLegislaturaDoMandato": {
+        "NumeroLegislatura": "57",
+        "DataInicio": "2023-02-01",
+        "DataFim": "2027-01-31"
+      },
+      "DescricaoParticipacao": "Titular",
+      "Suplentes": {
+        "Suplente": [
+          {
+            "DescricaoParticipacao": "1º Suplente",
+            "CodigoParlamentar": "63",
+            "NomeParlamentar": "Ney Suassuna"
+          },
+          {
+            "DescricaoParticipacao": "2º Suplente",
+            "CodigoParlamentar": "5995",
+            "NomeParlamentar": "Suely Santiago"
+          }
+        ]
+      },
+      "Exercicios": {
+        "Exercicio": [
+          {
+            "CodigoExercicio": "2939",
+            "DataInicio": "2019-02-01"
+          }
+        ]
+      }
+    },
+    "UrlGlossario": "http://legis.senado.leg.br/dadosabertos/senador/"
+  },
+  {
+    "IdentificacaoParlamentar": {
+      "CodigoParlamentar": "1173",
+      "CodigoPublicoNaLegAtual": "842",
+      "NomeParlamentar": "Wellington Fagundes",
+      "NomeCompletoParlamentar": "Wellington Antonio Fagundes",
+      "SexoParlamentar": "Masculino",
+      "FormaTratamento": "Senador ",
+      "UrlFotoParlamentar": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador1173.jpg",
+      "UrlPaginaParlamentar": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/1173",
+      "EmailParlamentar": "sen.wellingtonfagundes@senado.leg.br",
+      "Telefones": {
+        "Telefone": [
+          {
+            "NumeroTelefone": "33036219",
+            "OrdemPublicacao": "1",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33033778",
+            "OrdemPublicacao": "2",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33036213",
+            "OrdemPublicacao": "2",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33036221",
+            "OrdemPublicacao": "3",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33033772",
+            "OrdemPublicacao": "4",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33033775",
+            "OrdemPublicacao": "4",
+            "IndicadorFax": "Não"
+          }
+        ]
+      },
+      "SiglaPartidoParlamentar": "PL",
+      "UfParlamentar": "MT"
+    },
+    "Mandato": {
+      "CodigoMandato": "506",
+      "UfParlamentar": "MT",
+      "PrimeiraLegislaturaDoMandato": {
+        "NumeroLegislatura": "55",
+        "DataInicio": "2015-02-01",
+        "DataFim": "2019-01-31"
+      },
+      "SegundaLegislaturaDoMandato": {
+        "NumeroLegislatura": "56",
+        "DataInicio": "2019-02-01",
+        "DataFim": "2023-01-31"
+      },
+      "DescricaoParticipacao": "Titular",
+      "Suplentes": {
+        "Suplente": [
+          {
+            "DescricaoParticipacao": "1º Suplente",
+            "CodigoParlamentar": "4885",
+            "NomeParlamentar": "Jorge Yanai"
+          },
+          {
+            "DescricaoParticipacao": "2º Suplente",
+            "CodigoParlamentar": "5591",
+            "NomeParlamentar": "Manoel Motta"
+          }
+        ]
+      },
+      "Exercicios": {
+        "Exercicio": [
+          {
+            "CodigoExercicio": "2753",
+            "DataInicio": "2015-02-01"
+          }
+        ]
+      }
+    },
+    "UrlGlossario": "http://legis.senado.leg.br/dadosabertos/senador/"
+  },
+  {
+    "IdentificacaoParlamentar": {
+      "CodigoParlamentar": "5411",
+      "CodigoPublicoNaLegAtual": "808",
+      "NomeParlamentar": "Weverton",
+      "NomeCompletoParlamentar": "Weverton Rocha Marques de Sousa",
+      "SexoParlamentar": "Masculino",
+      "FormaTratamento": "Senador ",
+      "UrlFotoParlamentar": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5411.jpg",
+      "UrlPaginaParlamentar": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5411",
+      "EmailParlamentar": "sen.wevertonrocha@senado.leg.br",
+      "Telefones": {
+        "Telefone": [
+          {
+            "NumeroTelefone": "33034161",
+            "OrdemPublicacao": "1",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33031655",
+            "OrdemPublicacao": "2",
+            "IndicadorFax": "Não"
+          }
+        ]
+      },
+      "SiglaPartidoParlamentar": "PDT",
+      "UfParlamentar": "MA"
+    },
+    "Mandato": {
+      "CodigoMandato": "529",
+      "UfParlamentar": "MA",
+      "PrimeiraLegislaturaDoMandato": {
+        "NumeroLegislatura": "56",
+        "DataInicio": "2019-02-01",
+        "DataFim": "2023-01-31"
+      },
+      "SegundaLegislaturaDoMandato": {
+        "NumeroLegislatura": "57",
+        "DataInicio": "2023-02-01",
+        "DataFim": "2027-01-31"
+      },
+      "DescricaoParticipacao": "Titular",
+      "Suplentes": {
+        "Suplente": [
+          {
+            "DescricaoParticipacao": "1º Suplente",
+            "CodigoParlamentar": "5893",
+            "NomeParlamentar": "Suely Pereira"
+          },
+          {
+            "DescricaoParticipacao": "2º Suplente",
+            "CodigoParlamentar": "5892",
+            "NomeParlamentar": "Roberth Bringel"
+          }
+        ]
+      },
+      "Exercicios": {
+        "Exercicio": [
+          {
+            "CodigoExercicio": "2940",
+            "DataInicio": "2019-02-01"
+          }
+        ]
+      }
+    },
+    "UrlGlossario": "http://legis.senado.leg.br/dadosabertos/senador/"
+  },
+  {
+    "IdentificacaoParlamentar": {
+      "CodigoParlamentar": "5783",
+      "CodigoPublicoNaLegAtual": "818",
+      "NomeParlamentar": "Zenaide Maia",
+      "NomeCompletoParlamentar": "Zenaide Maia Calado Pereira dos Santos",
+      "SexoParlamentar": "Feminino",
+      "FormaTratamento": "Senadora ",
+      "UrlFotoParlamentar": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador5783.jpg",
+      "UrlPaginaParlamentar": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/5783",
+      "EmailParlamentar": "sen.zenaidemaia@senado.leg.br",
+      "Telefones": {
+        "Telefone": [
+          {
+            "NumeroTelefone": "33032371",
+            "OrdemPublicacao": "1",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33032372",
+            "OrdemPublicacao": "2",
+            "IndicadorFax": "Não"
+          },
+          {
+            "NumeroTelefone": "33031813",
+            "OrdemPublicacao": "3",
+            "IndicadorFax": "Não"
+          }
+        ]
+      },
+      "SiglaPartidoParlamentar": "PROS",
+      "UfParlamentar": "RN"
+    },
+    "Mandato": {
+      "CodigoMandato": "551",
+      "UfParlamentar": "RN",
+      "PrimeiraLegislaturaDoMandato": {
+        "NumeroLegislatura": "56",
+        "DataInicio": "2019-02-01",
+        "DataFim": "2023-01-31"
+      },
+      "SegundaLegislaturaDoMandato": {
+        "NumeroLegislatura": "57",
+        "DataInicio": "2023-02-01",
+        "DataFim": "2027-01-31"
+      },
+      "DescricaoParticipacao": "Titular",
+      "Suplentes": {
+        "Suplente": [
+          {
+            "DescricaoParticipacao": "1º Suplente",
+            "CodigoParlamentar": "5965",
+            "NomeParlamentar": "Júnior Souto"
+          },
+          {
+            "DescricaoParticipacao": "2º Suplente",
+            "CodigoParlamentar": "5966",
+            "NomeParlamentar": "Pastor Manoel Roberto"
+          }
+        ]
+      },
+      "Exercicios": {
+        "Exercicio": [
+          {
+            "CodigoExercicio": "2941",
+            "DataInicio": "2019-02-01"
+          }
+        ]
+      }
+    },
+    "UrlGlossario": "http://legis.senado.leg.br/dadosabertos/senador/"
+  },
+  {
+    "IdentificacaoParlamentar": {
+      "CodigoParlamentar": "3806",
+      "CodigoPublicoNaLegAtual": "836",
+      "NomeParlamentar": "Zequinha Marinho",
+      "NomeCompletoParlamentar": "José da Cruz Marinho",
+      "SexoParlamentar": "Masculino",
+      "FormaTratamento": "Senador ",
+      "UrlFotoParlamentar": "http://www.senado.leg.br/senadores/img/fotos-oficiais/senador3806.jpg",
+      "UrlPaginaParlamentar": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/3806",
+      "EmailParlamentar": "sen.zequinhamarinho@senado.leg.br",
+      "Telefones": {
+        "Telefone": {
+          "NumeroTelefone": "33036623",
+          "OrdemPublicacao": "1",
+          "IndicadorFax": "Não"
+        }
+      },
+      "SiglaPartidoParlamentar": "PSC",
+      "UfParlamentar": "PA"
+    },
+    "Mandato": {
+      "CodigoMandato": "566",
+      "UfParlamentar": "PA",
+      "PrimeiraLegislaturaDoMandato": {
+        "NumeroLegislatura": "56",
+        "DataInicio": "2019-02-01",
+        "DataFim": "2023-01-31"
+      },
+      "SegundaLegislaturaDoMandato": {
+        "NumeroLegislatura": "57",
+        "DataInicio": "2023-02-01",
+        "DataFim": "2027-01-31"
+      },
+      "DescricaoParticipacao": "Titular",
+      "Suplentes": {
+        "Suplente": [
+          {
+            "DescricaoParticipacao": "1º Suplente",
+            "CodigoParlamentar": "6001",
+            "NomeParlamentar": "Arlindo Silva"
+          },
+          {
+            "DescricaoParticipacao": "2º Suplente",
+            "CodigoParlamentar": "6002",
+            "NomeParlamentar": "Marinho Cunha"
+          }
+        ]
+      },
+      "Exercicios": {
+        "Exercicio": [
+          {
+            "CodigoExercicio": "2916",
+            "DataInicio": "2019-02-01"
+          }
+        ]
+      }
+    },
+    "UrlGlossario": "http://legis.senado.leg.br/dadosabertos/senador/"
+  }
+]
