@@ -142,3 +142,200 @@ The json below is the response of request, and `_id` field was generate by Elast
   "_primary_term" : 1
 }
 ```
+
+#### Bulk operation
+
+Bulk operation provides a way to perform multiples `index`, `create`, `delete` and `update` actions at once request.
+
+`POST /_bulk`
+
+```bash
+curl -X POST "{url}:{port}/_bulk?pretty" -H 'Content-Type: application/json' -d'
+{ "index" : { "_index" : "(YOUR_INDEX)", "_type" : "(YOUR_TYPE)", "_id" : "(YOUR_ID)" } }
+{ "field1" : "value1" }
+'
+```
+
+Executing various commands on a specific index
+
+`POST /<index>/_bulk`
+
+```bash
+curl -X POST "localhost:9200/store/_bulk?pretty" -H 'Content-Type: application/json' -d'
+{"index":{ "_type":"product" } }
+{"name": "Notebook", "price": "900.50"}
+{"index":{ "_type":"product" } }
+{"name": "SSD Card", "price": "52.90"}
+{"index":{ "_index":"another_store", "_type":"product" } }
+{"name": "Improved Notebook", "price": "900.50"}
+'
+```
+
+The response of previous command
+
+```json
+{
+  "took": 335,
+  "errors": false,
+  "items": [
+    {
+      "index": {
+        "_index": "store",
+        "_type": "product",
+        "_id": "PnmW6m8Bj1qVAc7wnxWv",
+        "_version": 1,
+        "result": "created",
+        "_shards": {
+          "total": 2,
+          "successful": 1,
+          "failed": 0
+        },
+        "_seq_no": 0,
+        "_primary_term": 1,
+        "status": 201
+      }
+    },
+    {
+      "index": {
+        "_index": "store",
+        "_type": "product",
+        "_id": "P3mW6m8Bj1qVAc7wnxWv",
+        "_version": 1,
+        "result": "created",
+        "_shards": {
+          "total": 2,
+          "successful": 1,
+          "failed": 0
+        },
+        "_seq_no": 1,
+        "_primary_term": 1,
+        "status": 201
+      }
+    },
+    {
+      "index": {
+        "_index": "another_store",
+        "_type": "product",
+        "_id": "QHmW6m8Bj1qVAc7wnxWv",
+        "_version": 1,
+        "result": "created",
+        "_shards": {
+          "total": 2,
+          "successful": 2,
+          "failed": 0
+        },
+        "_seq_no": 1,
+        "_primary_term": 1,
+        "status": 201
+      }
+    }
+  ]
+}
+```
+
+The data of body request must be of the following format:
+
+```
+action_and_meta_data\n
+optional_source\n
+action_and_meta_data\n
+optional_source\n
+....
+action_and_meta_data\n
+optional_source\n
+```
+
+The format must be a content type on the request header: `Content-type: application/x-ndjson`
+
+Going further than indexing...
+
+```bash
+curl -X POST "localhost:9200/_bulk?pretty" -H 'Content-Type: application/json' -d'
+{ "index" : { "_index" : "test", "_id" : "1" } }
+{ "field1" : "value1" }
+{ "delete" : { "_index" : "test", "_id" : "2" } }
+{ "create" : { "_index" : "test", "_id" : "3" } }
+{ "field1" : "value3" }
+{ "update" : {"_id" : "1", "_index" : "test"} }
+{ "doc" : {"field2" : "value2"} }
+'
+```
+
+The response of previous command
+
+```json
+{
+  "took": 374,
+  "errors": false,
+  "items": [
+    {
+      "index": {
+        "_index": "test",
+        "_type": "_doc",
+        "_id": "1",
+        "status": 201,
+        "_version": 1,
+        "result": "created",
+        "_shards": {
+          "total": 2,
+          "successful": 2,
+          "failed": 0
+        },
+        "_seq_no": 0,
+        "_primary_term": 1
+      }
+    },
+    {
+      "delete": {
+        "_index": "test",
+        "_type": "_doc",
+        "_id": "2",
+        "_version": 1,
+        "result": "not_found",
+        "_shards": {
+          "total": 2,
+          "successful": 2,
+          "failed": 0
+        },
+        "_seq_no": 1,
+        "_primary_term": 1,
+        "status": 404
+      }
+    },
+    {
+      "create": {
+        "_index": "test",
+        "_type": "_doc",
+        "_id": "3",
+        "_version": 1,
+        "result": "created",
+        "_shards": {
+          "total": 2,
+          "successful": 2,
+          "failed": 0
+        },
+        "_seq_no": 2,
+        "_primary_term": 1,
+        "status": 201
+      }
+    },
+    {
+      "update": {
+        "_index": "test",
+        "_type": "_doc",
+        "_id": "1",
+        "_version": 2,
+        "result": "updated",
+        "_shards": {
+          "total": 2,
+          "successful": 2,
+          "failed": 0
+        },
+        "_seq_no": 3,
+        "_primary_term": 1,
+        "status": 200
+      }
+    }
+  ]
+}
+```
