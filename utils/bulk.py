@@ -1,11 +1,26 @@
 #!/usr/bin/python3
-import sys, getopt, json
+import sys, os, getopt, json
 
 def main():
 
   file, _index, _type, _id = read_params()
-  print('file  : ', end="")
-  print(file)
+
+  full_path = "%s/%s" % (os.getcwd(),file)
+
+  if os.path.isfile(full_path) is False:
+    print('File not exists, going to process')
+    sys.exit(1)
+
+  data = read_file(full_path)
+
+  process_data(data,_index,_type,_id)
+
+
+  # print('file  : ', end="")
+  # print(file)
+
+  exit(1)
+
   print('_index: ', end="")
   print(_index)
   print('_type : ', end="")
@@ -24,16 +39,14 @@ def usage():
     -d, --id    <_id>       Converts a json path (element.propertie.id) to elasticsearch Id
         --help              Display this help and exit
   """ % (script_name))
-  sys.exit(1);
+  sys.exit(1)
 
 def read_params():
   try:
     opts, args = getopt.getopt(sys.argv[1:], "f:i:t:d:h", ["file=","index=", "type=", "id=", "help"])
 
   except getopt.GetoptError as err:
-
     script_name = sys.argv[0]
-    # print help information and exit:
     print( "%s %s" % (script_name, str(err)))  # will print something like "option -a not recognized"
     print( "Try '%s -h' or '%s --help' for more information." % (script_name,script_name))
     sys.exit(2)
@@ -63,6 +76,28 @@ def read_params():
     usage() 
 
   return file, _index, _type, _id
+
+def read_file(path):
+
+  try:
+    with open(path) as json_file:
+      data = json.load(json_file)
+  except:
+    print('Error on load json file!')
+    sys.exit(2)
+
+  return data
+
+def process_data(data,_index,_type,_id):
+
+  rs = _id.split('.')
+
+  print(rs)
+
+  # print(_index,_type,_id)
+  # print(data)
+  pass
+
 
 if __name__ == "__main__":
   main()
