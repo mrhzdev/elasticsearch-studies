@@ -15,10 +15,6 @@ def main():
 
   process_data(data,_index,_type,_id)
 
-
-  # print('file  : ', end="")
-  # print(file)
-
   exit(1)
 
   print('_index: ', end="")
@@ -88,16 +84,50 @@ def read_file(path):
 
   return data
 
-def process_data(data,_index,_type,_id):
+def process_data(data,_index,_type,id_path):
 
-  rs = _id.split('.')
+  for el in data:
 
-  print(rs)
+    _id = None
+    reg = el
 
-  # print(_index,_type,_id)
-  # print(data)
-  pass
+    if id_path is not None:
+      _id, reg = get_id(id_path.split('.'),el)
 
+  print('\n\n\nConvert data to [x-ndjson]')
+  exit(1)
+
+def get_id(id_path,data):
+
+  key = id_path[0]
+
+  if len(id_path) == 1:
+
+    if key not in data:
+      print("Key '%s' not exists in array, check the json path to id." % key)
+      sys.exit(2)
+    else:
+
+      _id = data[key]
+      del data[key]
+
+      if _id is None or _id == '' or isinstance( _id, dict ) :
+        print("ID is invalid")
+        sys.exit(2)
+
+      return _id, data
+  else:
+    if key in data and isinstance( data[key], dict ):
+      _id, nData = get_id(id_path[1:],data[key])
+
+      if len(nData) == 0:
+        del data[key]
+      
+      return _id, data
+
+    else:
+      print("Key path '%s' not exists in array, check the path to id." % '.'.join(id_path))
+      sys.exit(2)
 
 if __name__ == "__main__":
   main()
