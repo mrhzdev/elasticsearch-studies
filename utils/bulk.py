@@ -13,18 +13,10 @@ def main():
 
   data = read_file(full_path)
 
-  process_data(data,_index,_type,_id)
+  x_ndjson = process_data(data,_index,_type,_id)
 
-  exit(1)
-
-  print('_index: ', end="")
-  print(_index)
-  print('_type : ', end="")
-  print(_type)
-  print('_id   : ', end="")
-  print(_id)
-
-  pass
+  # put out bulk data
+  print("\n".join(x_ndjson))
 
 def usage():
   script_name = sys.argv[0]
@@ -66,7 +58,6 @@ def read_params():
     else:
       assert False, "unhandled option"
 
-    
   if file is None:
     print("'--file' or '-f' params is required\n")
     usage() 
@@ -76,7 +67,7 @@ def read_params():
 def read_file(path):
 
   try:
-    with open(path) as json_file:
+    with open(path,encoding='utf-8') as json_file:
       data = json.load(json_file)
   except:
     print('Error on load json file!')
@@ -86,6 +77,15 @@ def read_file(path):
 
 def process_data(data,_index,_type,id_path):
 
+  x_ndjson = []
+
+  sample_idx = {}
+
+  if _index is not None:
+    sample_idx['_index'] = _index
+  if _type is not None:
+    sample_idx['_type'] = _type
+
   for el in data:
 
     _id = None
@@ -94,8 +94,15 @@ def process_data(data,_index,_type,id_path):
     if id_path is not None:
       _id, reg = get_id(id_path.split('.'),el)
 
-  print('\n\n\nConvert data to [x-ndjson]')
-  exit(1)
+    idx = sample_idx.copy()
+
+    if _id is not None:
+      idx['_id'] = _id
+
+    x_ndjson.append(json.dumps({'index':idx}))
+    x_ndjson.append(json.dumps(reg,ensure_ascii=False))
+
+  return x_ndjson
 
 def get_id(id_path,data):
 
