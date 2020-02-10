@@ -339,3 +339,25 @@ The response of previous command
   ]
 }
 ```
+
+##### Bulk "inserter" script
+
+To perform a fast insert into elasticsearch. I built a simple python script([bulk.py](https://github.com/zabini/elasticsearch-studies/blob/master/utils/bulk.py)) that receive a json file with a list of documents(json objects), and turn these json documents into a ndjson output, ready to put it on body of a http request to elastic.
+
+##### How to use
+
+| Short Arg | Long Arg | Value Expected                | Text                                                            |
+| :-------: | :------: | :---------------------------: | --------------------------------------------------------------- |
+|  -f       |  --file  | `<path_to_json_file>`         | File path thats will be read (required)                         |
+|  -i       |  --index | `<_index>`                    | Elasticsearch index                                             |
+|  -t       |  --type  | `<_type>`                     | Elasticsearch type                                              |
+|  -d       |  --id    | `<path.to.json.object.field>` | Converts a json path (element.propertie.id) to elasticsearch Id |
+|  -h       |  --help  |                               | Display this help and exit                                      |
+
+##### Using
+
+
+Structure
+```bash
+./bulk.py --file <path_to_json_file> -d <path.to.json.object.field> -i <_index> -t <_type> | curl -X POST "localhost:9200/_bulk?pretty" -H 'Content-Type: application/json' --data-binary @-
+```
