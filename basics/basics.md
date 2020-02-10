@@ -356,9 +356,14 @@ To perform a fast insert into elasticsearch. I built a simple python script([bul
 
 ##### Using
 
-
-Structure
+Short structure
 ```bash
-./bulk.py --file <path_to_json_file> -d <path.to.json.object.field> -i <_index> -t <_type> | \
+./bulk.py -f <path_to_json_file> -d <path.to.json.object.field> -i <_index> -t <_type> | \
+curl -X POST "localhost:9200/_bulk?pretty" -H 'Content-Type: application/json' --data-binary @-
+```
+
+Long structure
+```bash
+./bulk.py --file <path_to_json_file> --id <path.to.json.object.field> --index <_index> --type <_type> | \
 curl -X POST "localhost:9200/_bulk?pretty" -H 'Content-Type: application/json' --data-binary @-
 ```
